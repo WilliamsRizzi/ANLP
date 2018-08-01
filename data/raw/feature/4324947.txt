@@ -1,0 +1,98 @@
+Prolonged hyperglycemia is an important risk factor of the pathogenesis of diabetic retinopathy -LRB-DR-RRB-.
+Extracellular matrix molecules, such as fibronectin, collagen IV, and laminin, are associated with fibrotic membranes.
+In this study, we investigated the expression of fibronectin, collagen IV, and laminin in RPE cells under high glucose conditions.
+Furthermore, we also detected the phosphorylation of protein kinase B -LRB-Akt-RRB- under high glucose conditions in RPE cells.
+Our results showed that high glucose upregulated fibronectin, collagen IV, and laminin expression, and activated Akt in RPE cells.
+We also found that pretreatment with LY294002 -LRB-an inhibitor of phosphatidylinositol 3-kinase-RRB- abolished high glucose-induced expression of fibronectin, collagen IV, and laminin in RPE cells.
+Thus, high glucose induced the expression of fibronectin, collagen IV, and laminin through PI3K/Akt signaling pathway in RPE cells, and the PI3K/Akt signaling pathway may contribute to the formation of fibrotic membrane during the development of DR.
+1.
+Introduction Diabetic retinopathy -LRB-DR-RRB- is a major cause of adult blindness globally -LSB-1-RSB-.
+Prolonged hyperglycemia plays a vital role in the development of DR. Increased synthesis of extracellular matrix molecules contributes to the thickening of the basement membrane, which is common in DR -LSB-2-RSB-.
+Proliferative DR, an advanced stage of DR, is characterized by epiretinal outgrowth of fibrotic membranes at the vitreoretinal interface.
+Retinal pigment epithelial -LRB-RPE-RRB- cells, which are located between the neurosensory retina and the vascular choroids, form the outer blood-retinal barrier and play an important role in the pathological processes that lead to the loss of vision.
+The breakdown of the outer blood-retinal barrier can activate RPE cells, which then initiate proliferation and migration and secrete extracellular matrix molecules to combat certain diseases, such as proliferative vitreoretinopathy -LRB-PVR-RRB- -LSB-3-RSB-, proliferative DR -LSB-4-RSB-, and age-related macular degeneration -LRB-AMD-RRB- -LSB-5-RSB-.
+The main components of the fibrotic membranes are extracellular matrix molecules, which are combined with some cell types.
+It has been confirmed that RPE and other cell types contribute to the formation of fibrotic membranes -LSB-6, 7-RSB-.
+The PI3K/AKT pathway is important not only in the development of many diseases but also for signaling in normal cells.
+This pathway plays a key role in numerous cellular functions, including adhesion, proliferation, migration, invasion, metabolism, and survival -LSB-8-RSB-.
+The PI3K pathway also plays an essential role in the formation of normal blood vessels -LSB-9-RSB-.
+The PI3K/Akt signaling pathway is required for the insulin-dependent regulation of cellular and systemic metabolisms -LSB-10-RSB-.
+In addition to insulin, cytokines, growth factors, and environmental stresses can activate the PI3K/Akt signaling pathway, mainly for regulating cell proliferation, motility, differentiation, and survival -LSB-11, 12-RSB-.
+The activation of the PI3K/Akt signaling pathway, which is mediated through molecular aberrations, is instrumental in promoting the development of tumors as well as in resisting anticancer therapies -LSB-13, 14-RSB-.
+It has been reported that high glucose can activate the PI3K/Akt signaling pathway in podocytes -LSB-15-RSB-, vascular smooth muscle cells -LSB-16-RSB-, vascular endothelial cells -LSB-17-RSB-, and human pancreatic cancer cells -LSB-18-RSB- and that it can induce the expression of extracellular matrix molecules in human renal proximal tubular cells -LSB-19-RSB-.
+In this study, we investigate the high glucose-induced expression of extracellular matrix molecules -LRB-such as fibronectin, collagen IV, and laminin-RRB-, the phosphorylation of Akt, and the mechanism involved in the high glucose-induced expression of fibronectin, collagen IV, and laminin in RPE cells.
+2.
+Methods 2.1.
+Reagents Anti-fibronectin and anti-collagen IV were obtained from Abcam -LRB-Danvers, MA-RRB-.
+Anti-laminin was purchased from Novus.
+Anti-human GAPDH was obtained from Bioworld Technology, Inc..
+LY294002 was purchased from Sigma -LRB-St. Louis, MO-RRB-.
+p-Akt and total-Akt were obtained from Cell Signaling Technology -LRB-Danvers, MA-RRB-.
+2.2.
+Cell Culture Human RPE cells -LRB-ARPE-19; CRL-2302-RRB- were purchased from the American Type Culture Collection -LRB-ATCC; Manassas, VA, USA-RRB-.
+The cells were cultured in Dulbecco's Modified Eagle Medium -LRB-DMEM; Gibco, Invitrogen, Grand Island, NY-RRB- with 10% fetal bovine serum -LRB-FBS, Gibco, Invitrogen-RRB-, 100 units/mL penicillin, and 100g/mL streptomycin -LRB-Sigma, St. Louis, MO-RRB- at 37C under 5% CO2 and 95% ambient air.
+RPE cells were seeded in a 25cm2 flask at a density of 3  106.
+2.3.
+Gene Expression Analysis by Real-Time PCR Human RPE cells were plated in 6-well culture dishes and incubated until 80% confluence was reached.
+During pretreatment, the cells were incubated with LY294002 for 12h and then in 5.6mM -LRB-normal glucose, NG-RRB- or 25mM -LRB-high glucose, HG-RRB- glucose for an additional 24h.
+The total RNA was extracted from RPE cells using TRIzol reagent -LRB-Invitrogen, Carlsbad, CA-RRB- according to the manufacturer's instructions.
+cDNA was synthesized with 2g of total RNA using a RevertAid First Strand cDNA Synthesis Kit -LRB-Fermentas-RRB-.
+The real-time PCR assays were performed using IQ Supermix -LRB-Bio-Rad, Hercules, CA-RRB-, and each 20L reaction mixture contained 2L cDNA, 10L SYBR Green Real-Time PCR Master Mix, 7.2L sterilized water, and 0.8L of each primer -LRB-10M-RRB-.
+Amplification was performed in 96-well plates using an iCycler iQ real-time detection system -LRB-Bio-Rad-RRB-.
+The PCR primers were as follows: human fibronectin: forward 5-GAT AAA TCA ACA GTG GGA GC-3, reverse 5-CCC AGA TCA TGG AGT CTT TA-3; human collagen IV: forward 5-AGA GTC AGC ATC GGC TAC CT-3, reverse 5-AGG AAG GGC ATG GTG CTG AA-3; human laminin: forward 5-CTA AGC TGG CTC CCG ATG-3, reverse 5-CAG GAA GAG CAG CAG AAC CT-3; human GAPDH: forward 5-TGT TCG ACA GTC AGC CGC AT-3; reverse 5-ACT CCG ACC TTC ACC TTC CC-3.
+The thermocycling conditions were 3min at 94C to activate the iTaq DNA polymerase, 39 cycles of 20s each, 94C for denaturation, 20s at 61C for annealing, and 20s at 72C for extension.
+The mRNA expression was normalized to the expression level of GAPDH and was calculated using the following equation: Fold change = 2CT.
+2.4.
+Western Blot Analysis Human RPE cells were grown to confluence in 6-well culture dishes and were incubated for pretreatment with LY294002 for 12h and then in NG or HG glucose for an additional 24h.
+Western blot was performed as described previously -LSB-20, 21-RSB-.
+In brief, cells were harvested and lysed in RIPA lysis buffer containing PMSF protease inhibitors.
+The protein concentrations for each sample were determined using the bicinchoninic acid assay -LRB-BCA-RRB-.
+Protein samples were analyzed on 6% or 10% SDS-PAGE gels, transferred to PVDF membranes -LRB-Millipore, Billerica, MA-RRB-, and processed for analysis using an enhanced chemiluminescence -LRB-ECL-RRB- detection system -LRB-Amersham, Arlington Heights, IL-RRB-.
+The primary antibodies were used at the following dilutions: anti-fibronectin -LRB-1:1,000-RRB-, anti-collagen IV -LRB-1:1,000-RRB-, anti-laminin -LRB-1:1,000-RRB-, anti-p-Akt -LRB-1:2000-RRB-, anti-total Akt -LRB-1:1000-RRB-, and anti-GAPDH -LRB-1:4,000-RRB-.
+2.5.
+Immunofluorescence Staining To detect fibronectin, collagen IV, and laminin, the cells on glass coverslips were fixed with 4% paraformaldehyde in phosphate-buffered saline -LRB-PBS; 20min-RRB-, washed -LRB-3x, PBS-RRB-, and 0.4% triton X100 -LRB-15min-RRB-.
+Blocking was performed with 10% goat serum -LRB-1h, 23C-RRB-.
+Primary antibodies were diluted into 10% goat serum/PBS and incubated overnight at 4C.
+The following antibodies were used: rabbit anti-fibronectin -LRB-1:100-RRB-, rabbit anti-collagen IV -LRB-1:50-RRB-, and rabbit anti-laminin -LRB-1:200-RRB-.
+Secondary antibodies were used, TRITC conjugated goat anti-rabbit IgG -LRB-1:200-RRB-.
+The samples were counterstained with DAPI -LRB-1:1000; No.
+D9542, Sigma, USA-RRB-.
+2.6.
+Statistical Analysis The statistical analysis was performed using SPSS software -LRB-version 17.0; SPSS, Inc., Chicago, IL-RRB-.
+It used a one-way analysis of variance and a Student's t-test.
+A P value of <0.05 was considered to be statistically significant.
+Data are expressed as means  standard deviation -LRB-SD-RRB-.
+3.
+Results 3.1.
+Induction of Fibronectin, Collagen IV, and Laminin mRNA and Protein Expression under High Glucose Conditions To examine the effect of high glucose on the expression of fibronectin, collagen IV, and laminin, RPE cells were cultured in Dulbecco's Modified Eagle Medium containing either 5.5mM -LRB-NG-RRB- or 25mM -LRB-HG-RRB- and were exposed for 24h.
+Real-time PCR data revealed increased mRNA levels of fibronectin, collagen IV, and laminin in the cells in the 25mM medium -LRB-Figures 1-LRB-a-RRB-1-LRB-c-RRB--RRB-.
+A western blot analysis showed that an increased protein level was also observed in the cells in the 25mM medium -LRB-Figures 2-LRB-a-RRB-2-LRB-c-RRB--RRB-.
+3.2.
+Immunofluorescence Staining of Fibronectin, Collagen IV, and Laminin in RPE Cells Under normal condition, fibronectin, collagen IV, and laminin staining were weak in RPE cells.
+However, under high glucose condition, strong positive staining of fibronectin, collagen IV, and laminin were observed in the cytosol and nucleus in RPE cells -LRB-Figures 3-LRB-a-RRB-3-LRB-c-RRB--RRB-.
+After pretreatment with LY294002, positive staining of fibronectin, collagen IV, and laminin were inhibited under high glucose conditions -LRB-Figures 7-LRB-a-RRB-7-LRB-c-RRB--RRB-.
+3.3.
+High Glucose Activates PI3K/Akt Signaling Pathway in RPE Cells To investigate whether high glucose activates Akt phosphorylation, RPE cells were cultured in Dulbecco's Modified Eagle Medium containing either 5.5mM -LRB-NG-RRB- or 25mM -LRB-HG-RRB- and were exposed for 5min, 10min, or 30min.
+A western blot analysis showed that high glucose can activate the phosphorylation of Akt in RPE cells -LRB-Figure 4-LRB-a-RRB--RRB-.
+The phosphorylation of Akt was blocked by pretreatment with LY294002 under high glucose condition -LRB-Figure 4-LRB-b-RRB--RRB-.
+3.4.
+PI3K/Akt Signaling Pathway Mediates the Expression of Fibronectin, Collagen IV, and Laminin in RPE Cells under High Glucose Conditions Having found that high glucose activated the PI3K/Akt signaling pathways and induced the expression of fibronectin, collagen IV, and laminin in RPE cells, we examined whether the activation of the PI3K/Akt signaling pathways plays a vital role in the high glucose-induced expression of fibronectin, collagen IV, and laminin in RPE cells.
+Using a real-time PCR assay, pretreatment of RPE cells with LY294002 blocked the high glucose-induced expression of fibronectin, collagen IV, and laminin mRNA -LRB-Figures 5-LRB-a-RRB-5-LRB-c-RRB--RRB-.
+A western blot analysis also showed that the high glucose-induced protein levels of fibronectin, collagen IV, and laminin were blocked by pretreatment with LY294002 in RPE cells -LRB-Figures 6-LRB-a-RRB-6-LRB-c-RRB--RRB-.
+4.
+Discussion Hyperglycemia is one of the most important risk factors for the development of DR. Sustained hyperglycemia can activate many factors, cytokines, and other molecules.
+The expression of extracellular matrix molecules was detected in many organs of diabetes patients and cell types under high glucose conditions -LSB-2225-RSB-.
+It has also been proven that extracellular matrix molecules are involved in the formation of fibrotic membranes and the thickening of basement membrane during the development of DR -LSB-26-RSB-.
+In the present study, we demonstrated that, compared with the control group, high glucose significantly increased the induction of extracellular matrix molecules -LRB-fibronectin, collagen IV, and laminin-RRB- in RPE cells when exposed to 25mM glucose for 24h.
+However, information about the link between high glucose and extracellular matrix molecules remains unclear.
+To gain further insight into the molecular mechanisms by which high glucose induces the expression of fibronectin, collagen IV, and laminin in RPE cells, we examined intracellular signaling pathways.
+Our results showed that the phosphorylation of Akt was activated when exposed to high glucose at 5min, 10min, and 30min in RPE cells.
+It has been reported that sustained endothelial activation of Akt induces the formation of structurally and functionally abnormal blood vessels that recapitulate the aberrations of tumor vessels -LSB-27-RSB-.
+Studies have also demonstrated that the inhibition of Akt signaling could inhibit pathological vascularization -LSB-28-RSB-.
+Inhibition of PI3K/Akt signaling should be considered especially in cancer therapy because the inappropriate activation of this pathway is frequently observed in many tumor types -LSB-29-RSB-.
+This study showed that the expression of fibronectin, collagen IV, and laminin was significantly decreased when pretreated with LY294002 for 12h and then exposed to high glucose conditions for an additional 24h in RPE cells.
+Fibrosis is defined as the excessive deposition of extracellular matrix molecules into organs and tissues.
+Extracellular matrix molecules and RPE cells contribute to the formation of fibrotic membranes in proliferative DR -LSB-6, 7, 26-RSB-.
+The present study demonstrated that high glucose significantly promoted the induction of extracellular matrix molecules and the phosphorylation of Akt under high glucose conditions in RPE cells.
+In addition, inhibition of the PI3K/Akt signaling pathway significantly decreased the expression of extracellular matrix molecules under high glucose conditions in these cells.
+Thus, the PI3K/Akt signaling pathway may contribute to the formation of fibrotic membranes during the development of DR.

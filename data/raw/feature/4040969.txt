@@ -1,0 +1,159 @@
+The impact of pediatric chronic kidney disease -LRB-CKD-RRB- on acquisition of volumetric bone mineral density -LRB-BMD-RRB- and cortical dimensions is lacking.
+To address this issue we obtained tibia quantitative computed tomography scans from 103 patients age 5-21 years with CKD -LRB-26 on dialysis-RRB- at baseline and 12 months later.
+Gender, ethnicity, tibia length and/or age-specific Z-scores were generated for trabecular and cortical BMD, cortical area, periosteal and endosteal circumference, and muscle area based on over 700 reference subjects.
+Muscle area, cortical area, and periosteal and endosteal Z-scores were significantly lower at baseline compared to the reference cohort.
+Cortical BMD, cortical area and periosteal Z-scores all exhibited a significant further decrease over 12 months.
+Higher parathyroid hormone levels were associated with significantly greater increases in trabecular BMD and decreases in cortical BMD in younger patients -LRB-significant interaction terms for trabecular BMD and cortical BMD-RRB-.
+The estimated GFR was not associated with changes in BMD Z-scores independent of parathyroid hormone.
+Changes in muscle and cortical area were significantly and positively associated in control subjects but not in CKD patients.
+Thus, children and adolescents with CKD have progressive cortical bone deficits related to secondary hyperparathyroidism and potential impairment of the functional muscle-bone unit.
+Interventions are needed to enhance bone accrual in childhood-onset CKD.
+Introduction Children with chronic kidney disease -LRB-CKD-RRB- have multiple risk factors for impaired bone accrual, including poor growth, delayed maturation, muscle deficits, decreased physical activity, abnormal mineral metabolism and secondary hyperparathyroidism.
+We recently reported that childhood-onset CKD was associated with significant deficits in cortical volumetric bone mineral density -LRB-BMD-RRB-, cortical dimensions and muscle area, as measured by peripheral quantitative computed tomography -LRB-pQCT-RRB-.1, 2 CKD was also associated with elevated trabecular BMD in younger participants only.
+The cross-sectional design limited the assessment of determinants of bone abnormalities and associations between bone and muscle outcomes.
+To our knowledge, longitudinal studies of bone accrual in childhood CKD, in the absence of intervening renal transplantation, are limited to series of 7-18 participants.3-6 These studies were further limited by the use of dual energy x-ray absorptiometry -LRB-DXA-RRB- measures of areal BMD.
+DXA is a two-dimensional projection technique that obscures distinct CKD effects on trabecular and cortical bone,7 and underestimates volumetric BMD in children with growth failure.8 The objectives of this prospective cohort study were: 1-RRB- to assess changes in trabecular and cortical volumetric BMD and cortical dimensions over a one year interval in children and adolescents with mild to severe CKD, 2-RRB- to identify correlates of changes in pQCT parameters including CKD progression, intact parathyroid hormone -LRB-iPTH-RRB- levels, and medications, and 3-RRB- to assess the relations between changes in muscle area and bone dimensions -LRB-the functional muscle-bone unit-RRB- compared with longitudinal data in healthy reference participants.
+Results Participant Characteristics This report describes 103 CKD participants with two pQCT scans, a median 12.5 months apart -LSB-interquartile range -LRB-IQR-RRB- 12.1, 13.2-RSB-, including 83 from the prior cross-sectional study.2 The focus of this study is determinants of changes in bone, therefore, this cohort includes an additional 20 participants that were ineligible for the prior study due to a history of solid organ transplantation.
+All prior renal transplant recipients in this study were on dialysis; median interval since transplantation of 5.1 -LRB-IQR 3.9, 7.2-RRB- years and a median interval since starting dialysis of 11 -LRB-IQR 2, 56-RRB- months.
+Baseline characteristics are summarized in Table 1.
+The reference participants have been described.2, 9, 10 Compared with the non-dialysis CKD, dialysis participants were significantly older, more likely to be of black race and more likely to have focal segmental glomerulosclerosis -LRB-FSGS-RRB-.
+Clinical Course Laboratory results, estimated glomerular filtration rate -LRB-eGFR-RRB- and medications are summarized in Table 2.
+There was a significant decline in renal function over the study period in non-dialysis CKD participants with a median decrease of 2 -LRB-IQR -7 to 1-RRB- ml/min/1.73m2.
+Two participants initiated dialysis.
+Serum iPTH and phosphorus levels increased significantly in the non-dialysis population.
+The proportion of non-dialysis participants above the normal iPTH range -LRB->65 pg/ml-RRB- increased from 39 to 52% over the study.
+The mean iPTH was above the pediatric Kidney Disease Outcome Quality Initiative -LRB-KDOQI-RRB- CKD stage-specific target range in 32 -LRB-42%-RRB- and 13 -LRB-50%-RRB- of non-dialysis and dialysis participants, respectively, and above the lower European target ranges in 38 -LRB-49%-RRB- and 18 -LRB-69%-RRB-, respectively.11, 12 Among the 20 participants with a history of prior transplantation, 7 received glucocorticoids and 9 received calcineurin inhibitors during the study period.
+The remainder of participants treated with glucocorticoids had a diagnosis of FSGS, systemic inflammatory disease or IgA nephropathy.
+Six CKD participants sustained a total of 7 fractures -LRB-1 tibia/fibula, 1 radius/ulna and 5 foot/toe-RRB- during the study interval -LRB-57/1,000 patient-years-RRB-.
+Peripheral QCT Outcomes Table 3 summarizes pQCT Z-scores in CKD participants.
+Trabecular BMD Overall, trabecular BMD Z-scores did not change significantly in all participants combined, or within the non-dialysis and dialysis groups.
+The multivariate regression model for changes in trabecular BMD Z-score demonstrated that a greater mean iPTH level was associated with a significantly greater change in trabecular BMD Z-score -LRB-p<0.001-RRB- and this effect was limited to the younger participants -LRB-interaction, p=0.001-RRB-, adjusted for baseline trabecular BMD Z-score.
+These results are illustrated in Figure 1, according to age < or  the median of 14 years.
+Changes in trabecular BMD Z-scores were significantly greater in the 11 participants that had elevated iPTH levels by European targets only, compared to the 47 without elevated iPTH by either target -LRB-p=0.04-RRB-.
+Similar results were obtained in the 45 participants above both targets.
+Lower baseline eGFR was associated with greater increases in trabecular BMD Z-score -LRB-p<0.03-RRB- and analyses stratified on median age suggested this effect was more pronounced in the younger participants.
+The association between change in trabecular BMD Z-score and baseline eGFR was eliminated when the models were adjusted for mean iPTH levels.
+Changes in trabecular BMD-Z scores were not associated with change in eGFR, etiology of CKD, interval since CKD diagnosis, concurrent recombinant growth hormone -LRB-rhGH-RRB-, glucocorticoid, calcitriol or phosphate binder treatment, or physical activity in univariate or multivariate models.
+Cortical BMD At baseline, cortical BMD Z-scores were not significantly lower in CKD participants vs. reference participants overall -LRB-p=0.06-RRB-.
+Baseline cortical BMD Z-scores were inversely associated with baseline iPTH concentrations in CKD participants -LRB-r=-0.25, p=0.01-RRB-.
+Cortical BMD Z-scores decreased significantly within all participants combined -LRB-p=0.02-RRB-.
+In the multivariate regression model of changes in cortical BMD Z-score, higher mean iPTH levels were associated with greater declines in cortical BMD Z-score -LRB-p=0.02-RRB- and this association was marginally greater in the younger participants -LRB-interaction p=0.05-RRB-.
+Among participants < 14 years of age, a mean iPTH level greater than the KDOQI target range was associated with a 0.29 greater decline in cortical BMD Z-score compared with those within or below the target range.
+Declines in cortical BMD Z-scores were significantly greater in the 11 participants that had elevated iPTH levels by European targets only, compared to the 47 without elevated iPTH by either target -LRB-p=0.005-RRB-.
+Similar results were obtained in the 45 participants above both targets.
+Changes in cortical BMD Z-scores were not associated with baseline eGFR, change in eGFR, underlying renal disease, interval since CKD diagnosis, medications -LRB-concurrent rhGh, glucocorticoid, calcitriol or phosphate binders-RRB- or physical activity.
+Cortical Dimensions At baseline, section modulus -LRB-a summary measure of cortical dimensions and strength-RRB-, cortical area, and periosteal and endosteal circumference Z-scores were significantly lower in the CKD participants -LRB-all p<0.01-RRB-, vs. reference participants.
+At baseline, iPTH levels were positively associated with endosteal circumference Z-scores -LRB-r=0.30, p=0.003-RRB- and negatively with cortical area Z-score -LRB-r=-0.25, p=0.01-RRB- but were not associated with periosteal circumference or section modulus Z-scores -LRB-p>0.4-RRB-.
+Over the follow-up interval, cortical area Z-scores decreased significantly within non-dialysis CKD and dialysis participants.
+Periosteal circumference Z-scores decreased significantly in all participants combined -LRB-p<0.009-RRB-.
+In the multivariable model for changes in cortical area Z-score, baseline eGFR, change in eGFR, mean iPTH levels, disease characteristics and medications were not significant.
+The multivariable models for changes in endosteal and periosteal circumference Z-scores both demonstrated a positive association with higher mean iPTH levels -LRB-p=0.05 and p=0.017-RRB-.
+None of the changes in cortical dimensions was associated with baseline or changes in renal function, diagnostic category, physical activity, or glucocorticoid, calcitriol or phosphate binder therapy.
+The analyses of rhGH associations with bone outcomes were limited to the 58 participants < 16 years of age, including 8 treated with rhGH for a minimum of 6 months over the study interval.
+Concurrent rhGH therapy was associated with greater increases in section modulus -LSB-0.51 -LRB-95% C.I. 0.22, 0.79, p=0.001-RRB--RSB- and cortical area Z-scores -LSB-0.27 -LRB--0.05, 0.60-RRB-, p=0.10-RRB--RSB-; however, the results were significant for section modulus only.
+Concurrent rhGH was not associated with significant changes in periosteal -LSB-0.10 -LRB--0.15, 0.35-RRB--RSB- or endosteal -LSB-0.15 -LRB--0.10, 0.40-RRB--RSB- circumference Z-scores.
+Muscle and Fat Cross-Sectional Area Z-scores At the baseline visit, mean muscle area Z-scores in CKD participants were lower vs. reference participants -LRB-p=0.001-RRB-.
+Over the follow-up period, there was a significant decrease in muscle area Z-scores in non-dialysis CKD participants and a non-significant decrease in dialysis participants.
+In the multivariable model for changes in muscle area Z-score, none of the participant, disease or treatment characteristics were significant.
+At the baseline visit, mean fat area Z-scores in CKD participants were not significantly different vs. reference participants and the small decline was not significant.
+In the multivariable regression model for changes, concurrent rhGH therapy was associated with a decrease in fat area Z-scores -LRB-p=0.002-RRB-.
+Muscle Force and Physical Activity Table 3 summarizes muscle force Z-scores and physical activity results.
+At baseline, CKD participants had significantly lower muscle force Z-scores vs. reference participants -LRB-p<0.001-RRB-.
+Muscle force adjusted for muscle CSA was 11.9% -LRB-95% CI: 4.7, 18.5; p=0.002-RRB- lower in non-dialysis CKD participants and 16.2% -LRB-5.1, 26, p=0.006-RRB- lower in dialysis CKD participants, compared with the reference participants.
+Muscle force did not change significantly over the study interval.
+At baseline, dialysis participants reported significantly fewer hours per week of total and moderate-to-high impact physical activity, vs. non-dialysis CKD participants and vs. reference participants -LRB-all comparisons p<0.01-RRB-.
+Reference participants reported a median of 12.7 -LRB-IQR 8.1, 20.6-RRB- total hours per week and 5.7 -LRB-IQR 3.0, 9.7-RRB- moderate-to-high impact hours per week.
+In both CKD groups physical activity declined over the study interval.
+Assessment of the Functional Muscle Bone Unit In order to determine if changes in muscle area Z-scores in CKD participants were associated with the expected changes in cortical Z-scores, i.e. the functional muscle-bone unit,13 the 12 month changes in cortical area Z-scores were compared in the CKD participants and the 269 reference participants enrolled in the longitudinal substudy.
+These analyses were adjusted for baseline muscle area and baseline cortical area Z-scores, age and tibia growth.
+Changes in cortical area Z-scores were positively associated with changes in muscle area Z-scores in the reference participants -LRB-p<0.001-RRB-; however, this association was absent in CKD participants -LRB-interaction p<0.001-RRB- -LRB-Figure 2-RRB-.
+Discussion This is the first study to examine changes in trabecular and cortical volumetric BMD, cortical dimensions, muscle area and muscle strength in childhood CKD.
+Secondary hyperparathyroidism in CKD was associated with greater increases in trabecular BMD Z-scores and greater declines in cortical BMD Z-scores in younger participants.
+Cortical BMD, cortical area, and periosteal circumference Z-scores decreased significantly over one year.
+The positive association between changes in muscle and cortical area Z-scores observed in reference participants was absent in CKD.
+Prior longitudinal bone imaging studies in children with CKD were limited to DXA and quantitative ultrasound methods.3-6 These studies were further limited by small sample sizes and inadequate reference data.
+Longitudinal studies using pQCT in CKD are limited to two radius studies in older adults: Obatake et al reported decreases in trabecular and cortical BMD over one year in 53 pre-dialysis patients -LRB-mean age 61 years-RRB-.14 Fujimore et al reported decreases in cortical BMD and cortical bone area over two years in 53 hemodialysis patients -LRB-mean age 67 years-RRB-.15 Given the absence of reference participants, it is not known if these changes were greater than expected with aging.
+The association between hyperparathyroidism and increased trabecular BMD in younger children with CKD has been described in prior cross-sectional studies,2, 10, 16-19 and confirmed in this longitudinal study.
+We hypothesized that the elevated trabecular BMD in the younger children was due to iPTH and CKD effects at the metaphysis, with impaired resorption of the dense metaphyseal spongiosa.20 Our prior cross-sectional study demonstrated an inverse association between iPTH levels and cortical volumetric BMD across all ages; however, this longitudinal study only detected this association in younger participants.
+The study by Obatake et al failed to show an association between iPTH levels and changes in cortical BMD while the study by Fujimore et al detected an inverse association in males only.14, 15 Periosteal and endosteal circumference both increased with higher mean levels of iPTH in our study.
+The increase in periosteal circumference is consistent with prior human and animal studies of PTH therapy.21, 22 The increase in endosteal circumference is consistent with a study of bone biopsies in adult dialysis patients, demonstrating that hyperparathyroidism was associated with endocortical resorption.23 The European guidelines advise lower target PTH levels, compared with KDOQI.
+The observation that PTH levels above the European target -LRB-but within the KDOQI target range-RRB- were associated with changes in trabecular and cortical BMD, compared with participants that were not above the European target provides preliminary support for these lower targets.12 Prior studies have shown variable results with different PTH assay methods; 24 however, our study used the same assay throughout and confirmed the results using the bioactive 1-84 PTH level.
+This study demonstrated that concurrent rhGH therapy was associated with preservation of section modulus Z-scores and greater declines in fat area Z-scores.
+However, the results must be interpreted with caution given the small number of participants treated with rhGH and our failure to detect significant associations with changes in periosteal and endosteal circumference or muscle area Z-scores.
+To our knowledge pediatric CKD BMD studies of growth hormone therapy are limited to DXA imaging.
+5, 6, 25-27 These studies yielded conflicting results, likely due to variable reference data, and adjustments for short stature and intercurrent growth.
+None of these studies examined volumetric BMD or cortical dimensions.
+In contrast, a radius pQCT study by Schweizer et al28, in prepubertal children with growth hormone deficiency demonstrated that cortical total area -LRB-a measure of periosteal dimensions-RRB- increased significantly relative to height age; marrow area -LRB-a measure of endosteal dimensions-RRB- and cortical area did not change significantly after one year of rhGH therapy.
+This is consistent with our observation that rhGH was associated with improvements in cortical dimensions.
+Larger controlled studies are needed to establish rhGH effects on bone accrual in CKD.
+The longitudinal data in our pediatric CKD cohort demonstrated significant and worsening cortical area deficits over one year.
+Given the strong association between cortical bone strength and muscle mass during normal growth -LRB-Figure 2A-RRB-, we examined the associations between cortical bone and muscle area.
+The positive association was absent in CKD -LRB-Figure 2B-RRB-.
+This may be explained by lower muscle force relative to muscle area in CKD 13, 29 and less physical activity.30, 31 Prior studies have demonstrated muscle abnormalities including muscle atrophy, myopathy, and reduced physical functioning in pediatric dialysis patients.19, 32 Prior pQCT studies in adults with pre-dialysis CKD33, and those on maintenance hemodialysis34 demonstrated that decreased cortical thickness and BMD were significantly associated with greater odds of fracture.
+While the sample size is inadequate to address age, sex, and skeletal site specific fracture rates, it is noteworthy that 6 of 103 CKD participants had a fracture during the study interval.
+This rate is higher than observed in healthy pediatric population-based studies at any age in males or females.35 The wide spectrum of underlying renal disease and duration, and differences in participant treatment characteristics is a significant limitation of this study.
+The study included participants with conditions and medications that can impact bone health, including glucocorticoids, calcineurin inhibitors and rhGH.
+Furthermore, the majority of dialysis participants had a history of prior allograft failure.
+The subgroup analyses had limited power and we were unable to define associations between disease characteristics and changes in bone outcomes.
+Therefore, the results should be considered with caution and used to generate hypotheses for future studies.
+A second limitation is the lack of bone biopsy data, precluding measures of trabecular bone microarchitecture, turnover or mineralization.
+The term CKD-Mineral and Bone Disorder -LRB-CKD-MBD-RRB- describes a broad systemic disorder of mineral and bone metabolism, as well as vascular and soft-tissue calcification.36 We were also unable to address extra-skeletal calcification.
+A final limitation is the lack of measures of FGF-23.
+However, a recent bone biopsy study reported that FGF-23 levels were not associated with defective mineralization.37 Given that a recent biopsy study in 52 children with pre-dialysis CKD reported evidence of defective mineralization in 29% of patients with stage 2, 42% with stage 3, and 79% with stage 4/5 CKD, future studies comparing QCT scans and bone biopsies are needed to determine the sensitivity of QCT to identify mineralization defects.37 The study design has multiple important strengths.
+It is the largest longitudinal bone study of childhood onset CKD and the first to use pQCT to quantify changes in bone and muscle.
+It included a large robust longitudinal reference sample permitting adjustment for age, sex, race, tibia length and muscle area in the assessment of bone outcomes.
+Furthermore the use of Z-scores for volumetric BMD, cortical dimensions, and muscle deficits provide the first evidence of the clinical magnitude of the deficits.
+We recently compared DXA and pQCT results in a cross-sectional analyses of 88 participants.38 While pQCT measures of trabecular BMD were associated with DXA measures of lumbar spine BMD -LRB-R2=0.13-RRB- and pQCT measures of cortical bone mineral content were associated with DXA whole body bone mineral content -LRB-R2=0.41-RRB-, DXA measures were not associated with iPTH levels.
+Therefore, the clinical utility of DXA remains unproven.
+In summary, our data demonstrated that children and adolescents with CKD have progressive declines in cortical bone accrual at one year follow-up, partially related to hyperparathyroidism and muscle deficits.
+Future studies are needed to assess the fracture implications of these findings, and to identify therapies to enhance bone quality in children with CKD.
+Materials and Methods Study participants The study cohort consisted of children and adolescents aged 5-21 years with CKD -LRB-baseline eGFR < 90 ml/min/1.73m2-RRB- enrolled in a larger study of bone health in CKD at Children's Hospital of Philadelphia -LRB-CHOP-RRB- and Cincinnati Children's Hospital and Medical Center -LRB-CCHMC-RRB-.1, 2, 38-40 Patients were ineligible for this study if they had a history of chronic conditions unrelated to CKD that may impact bone health or had a functioning renal allograft.
+This study population was compared to a reference population of 903 healthy children and adolescents from CHOP recruited from general pediatric practices in the greater Philadelphia area.2, 10 Reference participants were excluded for medical history of illness or medications that could affect growth and development.
+A total of 269 completed a 12 month visit in a longitudinal substudy.10, 41 Study approval was obtained from the Institutional Review Boards at CHOP and CCHMC.
+Informed consent was obtained directly from study patients  18 years of age, and assent as well as parental consent in those < 18 years of age.
+Anthropometry, Sexual Maturity and Race Height was measured using a stadiometer -LRB-Holtain, Crymych, UK-RRB- and weight with a digital scale -LRB-Scaletronix, White Plains, New York-RRB-.
+Tibia length was measured with a segmometer.
+Pubertal development was assessed using a self-assessment questionnaire and classified according to Tanner stage.42, 43 Participant's race was categorized by parents or the participant according to the National Institutes of Health categories.
+Physical Activity Questionnaire The physical activity questionnaire was designed to assess biomechanical impact.10, 44, 45 The questionnaire was introduced mid-study in the reference participants and completed in 401 participants.
+CKD Disease Characteristics and Medications Medical charts were reviewed for the date of diagnosis, cause of underlying renal disease, fracture history, medications, and dialysis and transplant history.
+Underlying renal disease was categorized as congenital anomalies of the kidney and urinary tract -LRB-CAKUT-RRB-, FSGS, systemic inflammatory disease and other.
+All fracture events during the study were confirmed by review of radiology reports.
+Peripheral Quantitative Computed Tomography Bone, muscle and fat measures were obtained in the left tibia using a Stratec XCT2000 pQCT device -LRB-Orthometrix, White Plains, NY-RRB-.
+Scan parameters, software and calibration procedures have been described.2, 10 Bone measurements were obtained at the 3% metaphyseal site for trabecular volumetric BMD -LRB-mg/cm3-RRB- and at the 38% diaphyseal site for cortical volumetric BMD, -LRB-mg/cm3-RRB-, periosteal and endosteal circumference -LRB-mm-RRB-, cortical cross sectional area -LRB-mm2-RRB-, and polar section modulus -LRB-mm3-RRB-.
+Fat and muscle area -LRB-mm3-RRB- were assessed 66% proximal to the distal physis.
+The manufacturer's hydroxyapatite phantom was scanned daily.
+In our laboratory, the coefficient of variation -LRB-CV-RRB- ranged from 0.5 to 1.6% for pQCT outcomes in children and adolescents.
+Measurement of Muscle Force Muscle force in ankle dorsiflexion was assessed using isometric dynamometry -LRB-Biodex Medical Systems, Inc, Shirley, NY-RRB-.46 The Biodex measures were performed in 280 reference participants and in the CKD participants at the baseline and 12 month follow-up visit at CHOP only.
+Laboratory Measurements Non-fasting blood chemistries and iPTH were measured at baseline, 6 and 12 months in non-dialysis participants and baseline, 3, 6, and 12 months in dialysis participants.
+Serum bicarbonate -LRB-mmol/L-RRB-, calcium -LRB-mg/dL-RRB-, phosphorus -LRB-mg/dL-RRB-, and albumin -LRB-g/dL-RRB- concentrations were measured in clinical laboratories using standard methods and calcium levels were adjusted for albumin levels.47 Plasma PTH -LRB-pg/ml-RRB- was measured using two different immunoradiometric assays -LRB-IRMA-RRB- with I125I- labeled tracer -LRB-Scantibodies Clinical Laboratory, Santee, CA, USA-RRB-.
+The traditional second generation IRMA measured iPTH.
+The third generation assay used a specific polyclonal PTH antibody directed against the most N-terminal PTH region as tracer antibody in order to measure the bioactive 1-84 PTH molecule.
+The intra-assay CV for the intact and bioactive PTH assays were 3 to 5% and 3 to 10% respectively.
+48 Serum creatinine -LRB-mg/dL-RRB- was measured by spectrophotometric enzymatic assay -LRB-Vitros, Johnson & Johnson Co, Rochester, NY-RRB- with a CV of 1% to 5%.
+Estimated GFR -LRB-ml/min/1.73m2-RRB- was calculated based on height and serum creatinine using the pediatric estimating equation from the Chronic Kidney Disease in Children prospective cohort study 49.
+CKD stage was classified according to National Kidney Foundation guidelines.50 Dialysis patients were assigned an eGFR of 7.5 ml/min/1.73m2 for models examining baseline eGFR as a continuous variable, and for calculating change in eGFR in the two participants that started dialysis during the study.
+Statistical Analysis Analysis were performed using Stata 11.0 -LRB-Stata Corp., College Station, TX, USA-RRB-.
+A p value < 0.05 was considered statistically significant and two sided tests of hypotheses were used throughout.
+Continuous variables were expressed as means  SD or median -LRB-IQR-RRB- if not normally distributed.
+Group differences were assessed using Student's t test or the Wilcoxon rank sum test.
+Changes within the CKD patients were tested using the paired t-test or the Wilcoxon signed rank test.
+Differences in proportions were tested using the chi-square test.
+Correlations between continuous variables were assessed by Pearson or Spearman's correlations.
+Although this study included multiple comparison, we did not apply a Bonferroni correction because this assumes the multiple outcomes are independent.51 The majority of bone and muscle Z-score were highly correlated.
+Rather, we evaluated the results for internal consistency and interpreted isolated results with caution.
+Age- and sex- specific height and BMI Z-scores were calculated using national data.
+52 All PTH levels were log transformed and a mean value created for each individual over the study interval, and used in the longitudinal models.
+The pQCT outcomes were converted to race and sex specific Z-scores using the LMS method based on the reference participants, as described.2, 10, 53, 54 This method accounts for the non-linearity, heteroscedasticity and skew of bone data during growth.55, 56 Trabecular and cortical BMD were assessed relative to age.
+Cortical geometry, muscle and fat outcomes were correlated with tibia length -LRB-all p<0.0001-RRB-; therefore, the Z-scores were generated relative to tibia length and further adjusted for age and tibia length using linear regression analyses.
+Changes in pQCT Z-scores within the CKD participants were annualized -LRB-change per 12 months-RRB- and assessed using multivariate regression models.
+Given the differences in disease and participant characteristics in the non-dialysis and dialysis participants, we stratified the annualized changes in bone outcomes -LRB-Table 3-RRB-.
+However, the associations between changes in bone outcomes and exposure variables did not differ between the non-dialysis and dialysis participants.
+Therefore, multivariate regression models of changes examined the entire cohort together.
+The following covariates were tested for each pQCT outcome- baseline outcome Z-score, study location, age, sex, race, Tanner stage, disease characteristics, concurrent medications, and baseline and change values for eGFR and physical activity.
+Bone models also included mean iPTH levels.
+All of the models that included the iPTH covariate were repeated using 1-84 or 7-84 PTH levels, yielding the same results -LRB-data not shown-RRB-.
+The correlations between iPTH, 1-84 PTH and 7-84 PTH exceeded 0.98; therefore it was not possible to assess independent associations.
+The 1-84/7-84 ratio was not significant in any longitudinal models.
+Secondary analyses were performed comparing pQCT Z-scores in participants that were above the European iPTH target but within KDOQI target range, vs. those without elevated iPTH by either target.
+The associations between changes in muscle and cortical area Z-scores were compared in the CKD participants and the longitudinal subset of reference participants using multivariable regression analysis.
+Models for peak muscle torque were compared in the CKD and reference participants adjusted for age, sex, race, tibia length and muscle area.57

@@ -1,0 +1,217 @@
+Three new species of Angiosperms have been found in four short collection trips to the same protected reserveEstao Ecolgica Estadual de Wenceslau Guimaresand neighboring areas in the Atlantic Forest in the south of the Brazilian state of Bahia.
+These new species belong to three genera from three distinct lineages in the family Melastomataceae: Huberia, Meriania and Physeterostemon.
+The description of these species represent a good example of a Linnean shortfall, i.e., the absence of basic knowledge about the biodiversity in the area, as well as in tropical forests as a whole.
+The description of these probably endemic species per se is a signal that this area deserves more attention regarding research and policies, but its consequences go farther: this area has a relevant role as a phylogenetic -LRB-both genetic and morphological-RRB- stock, and thus is also valuable as a phylogenetic conservation priority.
+Introduction Studies on biodiversity and evolutionary biology have been traditionally hindered by gaps in basic, natural history knowledge, no matter what kind of methods or organisms they deal with.
+These shortfalls can be linked to the lack of taxonomic work, i.e., species descriptions -LRB-Linnean shortfall; Brown & Lomolino, 1998; Whittaker et al., 2005-RRB- or absence of data regarding their distribution -LRB-Wallacean shortfall; Bini et al., 2006-RRB-.
+Both lead to a third gap in our knowledge: the lack of information on phylogenetic relationships, and thus the evolutionary history of life on Earth -LRB-i.e., Darwinian shortfall, Diniz-Filho et al., 2013-RRB-.
+The forests of eastern Brazil -LRB-Atlantic Forest or Mata Atlntica-RRB- harbor an incredible amount of biodiversity, and are considered one of the biodiversity hotspots -LRB-Myers et al., 2000-RRB-.
+With less than 10% of the original vegetation remaining, the Atlantic Forest is also a high conservation priority -LRB-Myers et al., 2000; Ribeiro et al., 2009-RRB-.
+Our knowledge about biodiversity in this area is not static as inventories of angiosperms have shown.
+In 2009 the list of flowering plants from the Atlantic Forest contained ca. 13,700 species -LRB-Stehmann et al., 2009-RRB-, while the most recent account -LRB-BFG, 2015-RRB- includes ca. 15,000 species.
+In both cases 4949.5% of the species are reported as endemic.
+This 1,300 species increase within six years is mainly due to the participation of specialists for most plant families and the heavy use of new informatic tools -LRB-BFG, 2015-RRB-.
+However, this increase also includes new species being described at a steady rate.
+In a 16 year span -LRB-19902006-RRB-, 1,194 species of angiosperms were described for the Atlantic Forest -LRB-Sobral & Stehmann, 2009-RRB-, which represents an increase of about 80 species per year.
+Taking the total 13,700 species surveyed in 2009, this means that almost 8.7% of these species were described in the previous 15 years.
+This high species description rate of angiosperms has been more intense in the middle section of Atlantic Forest from southern Bahia trough Esprito Santo and North Eastern Rio de Janeiro.
+The forests in that range are very rich for both plants -LRB-Martini et al., 2007; Leitman et al., 2015-RRB-, and animals -LRB-Carnaval & Moritz, 2008; Carnaval et al., 2009; Silva et al., 2012-RRB-.
+Moreover, these areas have been historically poorly collected, and thus lesser known than the southern portions of Atlantic Forest in So Paulo, Paran and Santa Catarina, and central and western Rio de Janeiro.
+Recent collection efforts, especially in medium to high altitudes have yielded several new species -LRB-for Melastomataceae only: Amorim, Goldenberg & Michelangeli, 2009; Goldenberg & Reginato, 2009; Baumgratz, Amorim & Jardim, 2011; Reginato, Baumgratz & Goldenberg, 2013; Amorim, Jardim & Goldenberg, 2014-RRB-.
+This was also the case for our four short, 34-day collection trips to small area within the municipality of Wenceslau Guimares, in southern Bahia.
+These trips provided enough material for the description of three new species of Melastomataceae, from three different genera: Huberia DC., Meriania Sw.
+and Physeterostemon R. Goldenb.
+& Amorim.
+These genera belong to distinct lineages, respectively the Merianthera clade -LRB-Goldenberg et al., 2012-RRB-, tribe Merianieae -LRB-Goldenberg et al., 2015-RRB-, and Miconieae/Eriocnema clade -LRB-Amorim, Goldenberg & Michelangeli, 2009-RRB-.
+Huberia has 16 species, most of them from eastern Brazil except for four species found in the Andes in Peru and Ecuador -LRB-Baumgratz, 2004-RRB-.
+Meriania has 95110 species, ranging from southern Mexico and Caribbean to Bolivia and southeastern Brazil -LRB-Michelangeli, Carmenate-Reyes & Sosa, 2015-RRB-.
+Physeterostemon has four species, all endemic to southern Bahia -LRB-Amorim, Jardim & Goldenberg, 2014-RRB-.
+The discovery of three distantly related species in the same family and in the same area underscores our lack of knowledge for several groups and areas of the tropics.
+It is important to emphasize that every one of the three species described here has characters that are unique within their respective lineages -LRB-see discussions below-RRB-, thus the discovery of these new species goes beyond that of adding to species to groups and areas, but also greatly add to our knowledge of morphological diversity and evolution for each of the three genera.
+Moreover, some of the groups described in the last 10 years represent key lineages heretofore unknown.
+An example is Physeterostemon -LRB-Goldenberg & Amorim, 2006-RRB-, first described from two species from southern Bahia, and that turned out to represent the sister group of the Miconieae -LRB-Amorim, Goldenberg & Michelangeli, 2009-RRB-, an exclusively Neotropical group with ca. 2,000 species.
+The description of the species here is as a good example of a Linnean shortfall, because three new species from a single family are found in the same place, disclosing the absence of basic knowledge regarding the biodiversity of the area.
+As for conservation purposes, the description of these probably endemic species per se is a signal that this area deserves more attention regarding research and policies, but its consequences go farther: this area has a relevant role as a phylogenetic -LRB-both genetic and morphological-RRB- stock -LRB-Vane-Wright, Humphries & Williams, 1991; Faith, 1992; Nee & May, 1997; Sechrest et al., 2002; Hidasi-Neto, Loyola & Cianciaruso, 2013-RRB-, and thus is also valuable as a phylogenetic conservation priority.
+Study Area The Estao Ecolgica Estadual de Wenceslau Guimares -LRB-EEEWG-RRB- was created in 1997 and enlarged in 2000, totaling 2,418 hectares -LRB-Bahia, 2010-RRB-.
+The reserve is contained within a single municipality, Wenceslau Guimares, in the southern portion of the state of Bahia, Brazil -LRB-Fig. 1-RRB-.
+Its geomorphology includes deep and straight valleys 200500 m wide, at 550 m elevation at the lowest point, and enclosed by mountains up to 1,000 m elevation, with slopes ranging mostly between 15 and 50.
+The soils are mostly alic Oxisols, but there are also Lithic Psamments and Ultisols.
+The climate is tropical and humid, but some slopes facing west can be considered as sub-humid.
+The annual mean temperature ranges between 22 and 25.5 C, and rainfall between 800 and 1,500 mm -LRB-Bahia, 2010-RRB-.
+The area surrounding the reserve has been almost entirely logged and cleared.
+It is nowadays covered with small rural properties, and the agricultural activities are based mostly on cocoa, fruticulture -LRB-mostly soursop, locally called graviola, and sold as frozen pulp-RRB- and subsistence crops.
+Some areas inside the reserve has been cleared and used for agricultural purposes for a long time up to the 1990s, but now there are no families living in it anymore.
+Apart from some areas covered with secondary vegetation, mostly on the bottom of the valleys and lower slopes, the reserve is covered with sub-montane tropical moist forest -LRB-Floresta Ombrfila Densa Submontana, according to the Brazilian official classification system; Veloso, Rangel-Filho & Lima, 1991-RRB-.
+On slopes up to 50, the canopy is 815 m high, and average trunk diameter 1530 cm, with remnant trees up to 30 m tall and 1 m diameter; the understory is well developed and the trees usually heavy with epiphytes.
+The vegetation on slopes above 800 m is lower, the canopy at 36 m, and average trunk diameter 510 cm, with a dense moss and lichen cover.
+Steeper and more exposed slopes and some mountain tops are covered with sparse vegetation, with a mosaic of shrubs and herbs on lithic soils.10.7717/peerj.1824/fig-1Figure 1 Map with the collection localities in the municipality of Wenceslau Guimares, Bahia, Brazil.
+Botanical exploration in the area is recent.
+They began in the early 1990s, with A.M. Carvalho, F. Frana, E. Melo, S. Mayo, W.W. Thomas and S.C. SantAnna.
+Surprisingly there are only three new species of plants described with types from Wenceslau Guimares, all of them bromeliads -LRB-Leme & Luther, 1998; Leme, 1999; Leme & Luther, 2003-RRB-.
+There is also a new species of treefrog -LRB-Anura-RRB- described for the area -LRB-Caramaschi & Rodrigues, 2003-RRB-.
+Material and Methods Fertile specimens were collected and processed following the traditional procedures related to botanical specimens -LRB-Mori et al., 1989-RRB-.
+The holotypes and paratypes were deposited either at CEPEC or UPCB -LRB-acronyms following Thiers, 2015-RRB-, with duplicates sent to HURB, NY, RB and other herbaria, whenever available.
+Comparisons with other species in each genus were based in herbarium specimens and bibliography as well: Baumgratz -LRB-1997, 2004; Huberia-RRB-; Chiavegatto -LRB-2009-RRB- and Chiavegatto & Baumgratz -LRB-2015; Meriania-RRB-; Goldenberg & Amorim -LRB-2006-RRB-, Amorim, Goldenberg & Michelangeli -LRB-2009-RRB-, Amorim, Jardim & Goldenberg -LRB-2014; Physeterostemon-RRB-.
+Our judgment on the species limits followed the morphological-phenetic species concept -LRB-Judd, 2007-RRB-.
+Collection permits were issued by the Instituto do Meio Ambiente e Recursos Hdricos -LRB-INEMA/Bahia: 2014-008132/TEC/PESQ-0010 and 2015-010036/TEC/PESQ-0015-RRB- for the plants inside Estao Ecolgica Estadual de Wenceslau Guimares.
+The electronic version of this article in Portable Document Format -LRB-PDF-RRB- will represent a published work according to the International Code of Nomenclature for algae, fungi, and plants -LRB-ICN-RRB-, and hence the new names contained in the electronic version are effectively published under that Code from the electronic edition alone.
+In addition, new names contained in this work which have been issued with identifiers by IPNI will eventually be made available to the Global Names Index.
+The IPNI LSIDs can be resolved and the associated information viewed through any standard web browser by appending the LSID contained in this publication to the prefix http://ipni.org/.
+The online version of this work is archived and available from the following digital repositories: PeerJ, PubMed Central, and CLOCKSS.10.7717/peerj.1824/fig-2Figure 2 Huberia sessilifolia.
+-LRB-A-RRB- Vegetative branch, adaxial view.
+-LRB-B-RRB- Vegetative branch, abaxial view.
+-LRB-C-RRB- Flowering branch.
+-LRB-D-RRB- Inflorescence with flowers in bud.
+-LRB-E-RRB- Inflorescences with flowers at anthesis.
+-LRB-F-RRB- Stamens and style.
+-LRB-G-RRB- Infrutescence with capsules before dehiscence, side view.
+-LRB-H-RRB- Infrutescence with capsules before dehiscence, top view -LRB-all photos by Fabian Michelangeli-RRB-.10.7717/peerj.1824/fig-3Figure 3 Huberia sessilifolia.
+-LRB-A-RRB- Flowering branch.
+-LRB-B-RRB- Flower bud.
+-LRB-C-RRB- Flower at anthesis.
+-LRB-D-RRB- Petal, adaxial surface.
+-LRB-E-RRB- Flower, longitudinal section, and detail of torus with petals and anthers removed.
+-LRB-F-RRB- Anthers in ventral, dorsal and side view.
+-LRB-G-RRB- Leaves of lower branches with detail of the leaf margin.
+-LRB-H-RRB- Infrutescence.
+-LRB-I-RRB- Fruit, before dehiscence.
+-LRB-AF from Goldenberg et al. 2052, NY; GI from Goldenberg et al. 1762, NY, and also from alcohol-preserved flowers and photos of live plants-RRB-.10.7717/peerj.1824/fig-4Figure 4 SEMs of leaf surfaces of Huberia sessilifolia -LRB-AB-RRB- and Meriania inflata -LRB-CD-RRB-.
+Results Huberia sessilifolia R. Goldenb.
+& Michelangeli, spec.
+nov. -LRB-Figs. 2, 3 and 4A4B-RRB- Type.
+Brazil, Bahia: Mun.
+Wenceslau Guimares, Estao Ecolgica Estadual Wenceslau Guimares, trilha para a Pedra da Torre, 133517.1S, 39434.3W, 750 m, 12 Oct 2014 -LRB-fl-RRB-, R. Goldenberg & F. A. Michelangeli 2052 -LRB-holotype: UPCB; isotypes: CEPEC, HURB, K, MBML, MO, NY, RB-RRB-.
+Diagnosis.
+A species of Huberia that differs from all other species in the genus due to the sessile leaves with subcordate to cordate bases, short -LRB-11.3 mm long-RRB- sepals, and the connective with a very short -LRB-1.31.7 mm long-RRB- dorsal tooth.
+Description.
+Trees or shrubs 45 m high, with few erect branches.
+Young stems, leaves, inflorescences and hypanthia glutinose -LRB-both in fresh and dry specimens-RRB-, covered with glandular trichomes with very short stalks, which are more distinctive on both leaf surfaces, where they are located on depressions and look more like dots than trichomes, otherwise glabrous.
+Young stems slightly quadrangular or slightly 4-sulcate, later becoming terete; interpetiolar lines absent.
+Leaves opposite, isomorphic, bigger on the proximal portions of the branches, then gradually smaller towards the apex; petioles absent when seen in adaxial view, but the leaves have a thick, rounded, 11.5 mm long protuberance at the base, in abaxial view, that may be interpreted as a reduced petiole; blades on fertile branches -LRB-2--RRB-35  -LRB-1--RRB-1.73.7 cm, chartaceous, ovate to ovate-elliptic, base subcordate to cordate, apex broadly acute to obtuse or rounded, margin entire and narrowly hyaline; blades on sterile branches larger than on the fertile branches, up to 9  5 cm, apex obtuse to acute, margins denticulate; venation acrodromous, basal, lacking domatia, with one pair of secondaries, elevated on abaxial surface, and with an additional pair of faint submarginal veins, tertiary veins percurrent but barely perceptible, quaternaries and areoles not perceptible in both surfaces.
+Inflorescence usually a single terminal, erect, 713-flowered umbellate cyme, 22.7 cm long, with a pair of bracts 1.42.3  0.91.3, leafy, sessile, oval to lanceolate, apex rounded, on a peduncle 1.62.2 cm long, or the inflorescences with one central and two lateral axes -LRB-totaling 2030 flowers-RRB-, each one similar to the cyme described above, but the laterals on peduncles 23 cm long, lacking bracts; bracteoles 2 per cluster, 2.37  12 mm, sessile, oblong to lanceolate, apex rounded.
+Flowers 4-merous, on pedicels 5.57 mm long.
+Hypanthium green, 5.56.5  22.5 mm, terete to oblong-urceolate, surface smooth -LRB-not alate, nor costate-RRB-.
+Calyx opening regularly; tube 0.60.9 mm tall; sepals 11.3 mm long, broadly deltoid; dorsal teeth 0.50.7 mm.
+long, longitudinally flattened, triangular to rounded -LRB-then more prominent and rounded in fruits-RRB-.
+Petals white, 1113  89.5 mm, asymmetrically obovate, the apex rounded but with a sub-apical tooth, papillose.
+Stamens 8, isomorphic, all bent to to one side of the flower at anthesis, yellow but turning orangered in older flowers; filaments 67.5 mm long; connective not extended below the thecae but with a dorsal, straight, subulate tooth 1.31.7 mm long; thecae 7.78.5 mm long, sigmoid, corrugated, opening by a ventrally inclined pore.
+Ovary 44.5 mm long, ca. 1/2 superior, 4-locular; style sigmoid, white or pale-yellow, 1314.5 mm long, tapering towards the apex, bent to the same side of the flower than the anthers; stigma punctiform.
+Young capsules -LRB-ruptidio sensu Baumgratz, 1985-RRB-, yellowish-green, 1012 mm long on pedicels 911 mm long, urceolate, surface smooth -LRB-not alate nor costate-RRB-, with four longitudinal faint nerves plus four alternating shallow furrows.
+Mature fruits and seeds not seen.
+Distribution and conservation status.
+Huberia sessilifolia is known from only one population along an exposed rocky ridge within the Estao Ecolgica Estadual Wenceslau Guimares in southern Bahia.
+Given the size of the reserve -LRB-24.2 km2-RRB- and potential habitat, we recommend that H. sessilifolia is given a status of critically endangered -LRB-IUCN, 2014-RRB-.
+Paratypes.
+Brazil, Bahia: Mun.
+Wenceslau Guimares, Estao Ecolgica Estadual Wenceslau Guimares, 730 m, 21 Feb 2014 -LRB-fr-RRB-, R. Goldenberg et al. 1762 -LRB-CEPEC, NY, UPCB-RRB-.
+Etymology.
+The epithet refers to the sessile leaves, which are the most distinctive feature of this species.
+Remarks.
+All species of Huberia known to date have petiolate leaves, with bases ranging from cuneate and decurrent to obtuse to rounded -LRB-Baumgratz, 1997-RRB-.
+No described species present the sessile leaves with subcordate to cordate bases found in H. sessilifolia.
+The character combination of short sepals and short connective appendages can be found in H. glazioviana Cogn.
+and H. consimilis Baumgratz.
+However in these species the connective appendage ranges from 1.5 to 4 mm long in the former, and 1.3 to 4.7 mm long in the latter -LRB-Baumgratz, 1997-RRB-, thus usually longer than the 1.31.7 mm long ones found in H. sessilifolia.
+Apart from the petiolate leaves with acute to obtuse bases, H. glazioviana also differ from H. sessilifolia on the pubescent branches and leaves, while H. consimilis differs from H. sessilifolia on the longer -LRB-up to 24 mm long-RRB- and slenderer pedicels -LRB-Baumgratz, 1997-RRB-.
+Meriania inflata Michelangeli & R. Goldenb., spec.
+nov. -LRB-Figs. 4C4D, 5 and 6-RRB-10.7717/peerj.1824/fig-5Figure 5 Meriania inflata.
+-LRB-A-RRB- Leaf blade, abaxial view.
+-LRB-B-RRB- Flower buds.
+-LRB-C-RRB- Flower bud in pre-anthesis.
+-LRB-D-RRB- Inflorescence with flowers in different development stages.
+-LRB-E-RRB- Flower, top view.
+-LRB-F-RRB- Flower, lateral view, petals removed -LRB-all photos by Fabian Michelangeli-RRB-.10.7717/peerj.1824/fig-6Figure 6 Meriania inflata.
+-LRB-A-RRB- Flowering branch.
+-LRB-B-RRB- Flower at anthesis, lateral view.
+-LRB-C-RRB- Flower at anthesis, top view.
+-LRB-D-RRB- Flower at anthesis with one petal removed, lateral view.
+-LRB-E-RRB- Petal adaxial surface.
+-LRB-F-RRB- Flower, longitudinal section with petals removed.
+-LRB-G-RRB- Ovary apex and style and ovary in cross section.
+-LRB-H-RRB- Stamens in side, dorsal and ventral view -LRB-all drawn from Goldenberg 2078, NY, alcohol-preserved flowers and photos of live plants-RRB-.
+Type.
+Brazil, Bahia: Mun.
+Wenceslau Guimares, Estao Ecolgica Estadual Wenceslau Guimares, trilha do Alto da gua Vermelha, 133428.3S, 394258.8W, 675 m, 13 Oct 2014 -LRB-fl-RRB-, R. Goldenberg & F. A. Michelangeli 2078 -LRB-holotype: UPCB; isotypes: CEPEC, HUEFS, HURB, K, MBM, NY, RB, SP, US-RRB-.
+Diagnosis.
+A species of Meriania similar to Meriania tetramera Wurdack, but with flowers pentamerous and a regularly opening calyx with well defined sepals and dorsal teeth.
+Description.
+Tree up to 16 m high.
+The young stems covered with dense amorphous rufous trichomes.
+Young stems quadrangular, pubescent, later becoming terete, glabrous, and the bark fisurate; interpetiolar lines present in younger nodes, not obvious later on.
+Leaves opposite, mostly isomorphic; petioles 1.54 -LRB--5-RRB- cm long with dense trichomes as in the stem; blades 11.521  48.5 cm -LRB-the pair below the inflorescence often reduced to 4.56.5  1.82.5 cm-RRB-, chartaceous, elliptic to narrowly elliptic, base acute to narrowly acute, apex acute to shortly acuminate -LRB-up to 12 mm-RRB-, margin entire and slightly revolute; venation acrodromous, suprabasal, with one pair of secondaries diverging -LRB-3--RRB- 815 mm above the base, often slightly asymmetric, and with an additional pair of faint submarginal veins, tertiary veins percurrent, spaced every 37 mm and faint quaternaries, the areoles 24 mm; abaxial surface obscured by the pubescence as in the stem, the veins elevated, with slightly longer trichomes than on the surface, the union of the primary and secondary veins forming pocket domatia; adaxial surface appearing glabrous, but with very sparse appressed simple trichomes <1 mm long, the veins impressed.
+Inflorescence a terminal few-flowered cyme, 58.5 cm long, deflexed or pendant, the flowers in dichasia or sub-umbellate clusters; penducles flattened.
+Flowers 5-merous, the pedicels 811 mm long.
+Hypanthium 4.55.5  5.56.8 mm, broadly campanulate, with dense trichomes as in the stem.
+Calyx opening regularly, with dense trichomes as in the stem; tube 1.82.5 mm tall; sepals 2.53.2 mm, broadly deltoid; dorsal teeth tuberculate, up to 1.8 mm long.
+Petals green in bud, pale green at anthesis, 912.5  6.78 mm, obovate, glabrous, the apex emarginated, the base truncate.
+Stamens 10, slightly dimorphic, all bent to to one side of the flower at anthesis -LRB-generally the lower side-RRB-; filaments 7.58.5 mm long, white; connective pale yellow, not extended below the thecae but with a black dorsal acute tooth 2.83.3 mm long; thecae white, subulate, opening by a dorsally inclined pore, each theca with an inflated sac at the base, 2.33.3 mm long, white and translucent.
+Ovary 4/5 to fully superior, 5-locular; style slightly sigmoid, white, protogynous, 1113.5 mm long, 0.91 mm diameter at the base, tapering towards the apex, bent to the opposite side of the flower than the anthers; stigma punctiform ca. 0.5 mm wide.
+Capsules and seeds unknown.
+Distribution and conservation status.
+Meriania inflata is known from only one collection from forests within the Estao Ecolgica Estadual Wenceslau Guimares in southern Bahia.
+At the time of collecting the type specimen three individuals were observed.
+Given the size of the reserve -LRB-24.2 km2-RRB- and potential habitat, we recommend that Meriania inflata is given a status of critically endangered -LRB-IUCN, 2014-RRB-.
+Etymology.
+The epithet refers to the two inflated sacs at the base of the thecae.
+This character occurs in both Meriania inflata and Meriania tetramera, and makes these two species very distinctive among other species of Meriania.
+Remarks.
+Among the Eastern Brazilian species of Meriania, the indument and anther morphology of M. inflata are very similar to those of M. tetramera -LRB-Chiavegatto, 2009; Chiavegatto & Baumgratz, 2008; Chiavegatto & Baumgratz, 2015-RRB-.
+This anther morphology with paired sacs at the base of the thecae is not known in any other species in the genus apart from M. inflata and M. tetramera.
+This feature is undoubtedly associated with the pollination biology of these species, but nothing is known about the natural history of either species.
+While Meriania tetramera also has greenish petals and plinerved leaves, the two species can be readily distinguished because Meriania tetramera has 4-merous flowers and a calyx closed in bud that opens irregularly.
+The leaf and hypanthium indument of M. inflata is also similar to that of M. calophylla -LRB-Naudin-RRB- Triana.
+However, M. calophylla has narrower leaves that are basally-nerved, much larger flowers with purple to lavender petals at anthesis, and dimorphic stamens with dorsal ascending appendages.
+In the recent key to Brazilian Meriania -LRB-Chiavegatto & Baumgratz, 2015-RRB-, M. inflata would not fit either of the options in the first couplet as the inflorescences are pendulous or deflexed -LRB-as in M. glazioviana Cogn.
+and M. longipes Triana-RRB- but the peduncle is less than 4 cm long -LRB-as in all other Brazilian species-RRB-.
+Physeterostemon aonae Amorim, Michelangeli & R. Goldenb., spec.
+nov. -LRB-Figs. 7 and 8-RRB-10.7717/peerj.1824/fig-7Figure 7 Physeterostemon aonae.
+-LRB-A-RRB- Habit of flowering plants.
+-LRB-B-RRB- Leaf adaxial surface.
+-LRB-C-RRB- Leaf, abaxial surface.
+-LRB-D-RRB- Inflorescence with flowers still in bud.
+-LRB-E-RRB- Inflorescence with flowers at anthesis.
+-LRB-F-RRB- Flower, frontal view.
+-LRB-G-RRB- Infrutescence, lateral view.
+-LRB-H-RRB- Infrutescence, top view.
+-LRB-I-RRB- Fruit.
+-LRB-A, DF by Andr Amorim, BC by Lucas Marinho, GI by Fabian Michelangeli-RRB-.10.7717/peerj.1824/fig-8Figure 8 Physeterostemon aonae.
+-LRB-A-RRB- Habit.
+-LRB-B-RRB- Inflorescence with buds and flowers at anthesis.
+-LRB-C-RRB- Flower, frontal view.
+-LRB-D-RRB- Details of stamen disposition at anthesis, lateral and dorsal view.
+-LRB-E-RRB- Ovary apex and style.
+-LRB-F-RRB- Flower, longitudinal section with petals removed.
+-LRB-G-RRB- Stamens in ventral and lateral view -LRB-all drawn from Amorim 8885, NY, alcohol-preserved flowers and photos of live plants-RRB-.
+Type.
+Brazil, Bahia: Mun.
+Wenceslau Guimares, Povoado de Nova Esperana, Assentamento Patioba, 133444.5S, 394144.0W, 520 m, 01 Dec 2014 -LRB-fl-RRB-, A. M. Amorim, J. L. Paixo & L. C. Marinho 8885 -LRB-holotype: CEPEC; isotypes: NY, RB, UPCB-RRB-.
+Diagnosis.
+A species of Physeterostemon similar to P. jardimii R. Goldenb.
+& Amorim but with leaf base rounded to subcordate, inflorescences paniculate/corymbose, hypanthia strigose but not glandulose-setose, calyx with sepals 1.92.1 mm long and dorsal teeth 4.14.3 mm long, petals 7.78.4 mm long.
+Description.
+Rhizomatous subshrub 1220 cm high.
+Young stems and petioles densely covered with trichomes 0.72 mm long, appressed, unbranched, with broadened bases; inflorescences, hypanthia and calyx with similar, but erect or curved trichomes 23 mm long.
+Young stems slightly terete.
+Leaves opposite, isomorphic; petioles 0.52.3 cm long; blades -LRB-5--RRB-821  -LRB-2--RRB-48 cm, membranaceous, oblong or oblanceolate to elliptic-lanceolate, base rounded to subcordate, frequently asymmetric, apex broadly acuminate or acute, margin crenulate, denticulate to serrate; venation acrodromous, suprabasal, lacking domatia, with one or two pairs of secondaries diverging 312 mm above the base and with an additional pair of faint submarginal veins, tertiary veins percurrent, adaxial surface moderately covered with trichomes 11.5 mm, appressed, the main veins impressed, tertiaries slightly impressed, quaternaries barely visible, reticulation not visible, abaxial surface actually glabrous, but with trichomes on main and secondary nerves, the trichomes similar to the ones on the branches, and also smaller and erect trichomes on the tertiary veins -LRB-ca. 1 mm long-RRB- and quaternary veins and reticulation -LRB-0.306 mm long-RRB-, main, secondary and tertiary veins prominent, quaternaries and reticulation plane.
+Inflorescence 4.35.4  4.26.5 cm, terminal, erect, usually a single corymbose panicle with 24 pairs of paraclades, 2030 flowers, these congested at the apices of the branches, the axes vinose; bracts 1.53.2  1.11.7 mm, deltoid to lanceolate, margins ciliate, adaxial surface glabrous, abaxial glabrous but with the main vein slightly elevated and with a few trichomes on it; bracteoles 1.82  0.60.8  12 mm, similar to the bracts.
+Flowers -LRB-5--RRB-6-merous, the pedicels 24.8 mm long.
+Hypanthium ca. 3  3.5 mm, green but covered with reddish to vinose trichomes, terete to oblong-urceolate, internal surface and torus glabrous.
+Calyx green but covered with reddish to vinose trichomes, opening regularly; tube ca. 0.8 mm long; sepals 1.92.1 mm long, deltoid to rounded, margins shortly ciliolate -LRB-cilia ca. 0.6 mm long-RRB-; dorsal teeth 4.14.3 mm long, linear.
+Petals 7.78.4  4.65.4 mm, white -LRB-but light-pink in the buds-RRB-, obovate, apex truncate, margins entire, abaxial surface slightly papillose.
+Stamens -LRB-10--RRB- 12, isomorphic, all grouped in a cluster at one side of the flower at anthesis; filaments 3.13.5 mm long; connective unappendaged, dorsally thickened; thecae 22.1 mm long, with a single ventral pore 0102 mm diameter.
+Ovary 1.42 mm long, 1/22/3 inferior, 4-locular, apex sparsely covered with short glandular trichomes ca. 0.1 mm long; style 55.3 mm long, pale-yellow, straight but with a curved apex, sometimes with very scattered glandular trichomes similar to the ones on the ovary apex,; stigma punctiform.
+Capsules 2.43.2  3.64 mm, tearing longitudinally, with the pericarp adnate to the hypanthium, and both persistent; seeds not seen.
+Distribution and Conservation Status.
+Physeterostemon aonae is known from only one population near the Estao Ecolgica Estadual Wenceslau Guimares in southern Bahia.
+This single population is located outside the reserve in a slope side near a cocoa plantation.
+Searches for this species in similar habitats within the reserve and other nearby forest patches failed to find another population.
+Given the restricted size of the known habitat, we recommend that P. aonae is given a status of critically endangered -LRB-IUCN, 2014-RRB-.
+Paratypes.
+Brazil, Bahia: Mun.
+Wenceslau Guimares, Estao Ecolgica, Assentamento Patioba, 11 Mar 2013 -LRB-fr-RRB-, L.Y.S. Aona et al. 2388 -LRB-CEPEC, HURB, K, RB, UPCB-RRB-; Mun.
+Wenceslau Guimares, Nova Esperana, Patioba, 133444.5S, 394144.0W, 520 m, 20 Feb 2014 -LRB-fr-RRB-, R. Goldenberg et al. 1740 -LRB-CEPEC, NY, UPCB-RRB-; Mun.
+Wenceslau Guimares, Nova Esperana, Patioba, 133444.5S, 394144.0W, 520 m, 11 Oct 2014 -LRB-st-RRB-, R. Goldenberg & F.A. Michelangeli 2041 -LRB-HURB, UPCB-RRB-; Mun.
+Wenceslau Guimares, Nova Esperana, Patioba, 133444.5S, 394144.0W, 520 m, 01 Dec 2014 -LRB-fl-RRB-, A. M. Amorim et al. 8886 -LRB-CEPEC-RRB-; Mun.
+Wenceslau Guimares, Nova Esperana, Patioba, 133443S, 394136W, 444 m, 19 Dec 2015, L. Bacci et al. 287 -LRB-CEPEC, HUESC, NY, RB, UEC, UPCB-RRB-.
+Remarks.
+Physeterostemon aonae is similar to P. jardimii, but can be distinguished by the blade rounded to subcordate at the base -LRB-vs. acute to narrowly rounded in P. jardimii-RRB-, hypanthium strigose but not glandulose-setose -LRB-vs. strigose and glandular-setose-RRB-, sepals 1.92.1 mm long -LRB-vs. 1.21.3 mm long-RRB-, dorsal teeth 4.14.3 mm long -LRB-vs. 2.94.1 mm long-RRB- and petals 7.78.4 mm long -LRB-vs. ca. 7 mm long-RRB-.

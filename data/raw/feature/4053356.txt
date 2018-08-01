@@ -1,0 +1,290 @@
+Background Trials on sling exercise -LRB-SE-RRB-, commonly performed to manage chronic low back pain -LRB-LBP-RRB-, yield conflicting results.
+This study aimed to review the effects of SE on chronic LBP.
+Methods The randomized controlled trials comparing SE with other treatments or no treatment, published up to August 2013, were identified by electronic searches.
+Primary outcomes were pain, function, and return to work.
+The weighted mean difference -LRB-WMD-RRB- and 95% confidence interval -LRB-CI-RRB- were calculated, using a random-effects model.
+Results Risk of bias was rated as high in 9 included trials, where some important quality components such as blinding were absent and sample sizes were generally small.
+We found no clinically relevant differences in pain or function between SE and other forms of exercise, traditional Chinese medical therapy, or in addition to acupuncture.
+Based on two trials, SE was more effective than thermomagnetic therapy at reducing pain -LRB-short-term: WMD 13.90, 95% CI 22.19 to 5.62; long-term: WMD 26.20, 95% CI 31.32 to 21.08-RRB- and improving function -LRB-short-term: WMD 10.54, 95% CI 14.32 to 6.75; long-term: WMD 25.75, 95% CI 30.79 to 20.71-RRB-.
+In one trial we found statistically significant differences between SE and physical agents combined with drug therapy -LRB-meloxicam combined with eperisone hydrochloride-RRB- but of borderline clinical relevance for pain -LRB-short-term: WMD 15.00, 95% CI 19.64 to 10.36-RRB- and function -LRB-short-term: WMD 10.00; 95% CI 13.70 to 6.30-RRB-.
+There was substantial heterogeneity among the two trials comparing SE and thermomagnetic therapy; both these trials and the trial comparing SE with physical agents combined with drug therapy had serious methodological limitations.
+Interpretation Based on limited evidence from 2 trials, SE was more effective for LBP than thermomagnetic therapy.
+Clinically relevant differences in effects between SE and other forms of exercise, physical agents combined with drug therapy, traditional Chinese medical therapy, or in addition to acupuncture could not be found.
+More high-quality randomized trials on the topic are warranted.
+Introduction Low back pain -LRB-LBP-RRB- is a very common disorder -LSB-1-RSB-, with approximately 84% of adults experiencing an episode of LBP at some point during their lifetimes -LSB-2-RSB- and variable recurrence rates -LRB-5% to 60%-RRB- -LSB-3-RSB-.
+LBP, identified as the leading disability contributor -LSB-4-RSB-, may result in a reduced level of physical capacity -LSB-5-RSB--LSB-9-RSB-, negative psychological effects -LSB-10-RSB--LSB-17-RSB-, and reduction in the quality of life; as such, LBP is one of the most common reasons that patients opt to undergo health care -LSB-18-RSB-, -LSB-19-RSB-.
+In the United States, back pain-related lost productive work time in workers aged between 40 and 65 years costs employers an estimated $7.40 billion per year -LSB-20-RSB-; and an estimated $50 billion is spent annually on LBP treatments -LSB-21-RSB-.
+In Australia, direct medical costs associated with LBP treatments are estimated at more than $1 billion per year, with additional $8 billion covering indirect expenses -LSB-22-RSB-.
+Although the outcomes for many individuals with first-episode LBP are positive, 20% of these cases may develop into chronic LBP, which is defined as a chronic condition of LBP lasting for at least three months or longer -LSB-3-RSB-, -LSB-23-RSB--LSB-26-RSB-.
+And chronic LBP accounts for three-quarters of the total direct and indirect costs of medical care and lost productivity associated with LBP -LSB-27-RSB-.
+Hence, it is essential to improve the efficiency of treatment of chronic LBP.
+In clinical guidelines, exercise therapy is considered as an effective treatment to reduce self-reported pain and improve the back pain specific functional status of participants with chronic LBP -LSB-28-RSB-.
+Sling exercise -LRB-SE-RRB- is a specific form of exercise established by Meier -LSB-29-RSB- to rehabilitate professional German sportsmen and later developed by Kirkesola to treat motor problems -LSB-30-RSB-.
+SE supports or suspends the pelvis and lower extremities in a sling, and allows an individual to use his or her body weight to provide resistance -LSB-31-RSB-, -LSB-32-RSB-.
+This exercise minimizes the use of global muscles without pain as local muscles are activated.
+This procedure can be performed easily by using a sling and an elastic cord to offset body weight; however, this procedure is difficult when an unstable surface is used -LSB-31-RSB-.
+SE has been claimed to reduce pain, normalize muscle response patterns, retrain muscle motor units, re-operate inhibited actions, and improve damaged postural adjustment abilities -LSB-33-RSB-.
+Published randomized controlled trials -LRB-RCTs-RRB- have assessed the effects of SE on the treatment of chronic LBP -LSB-34-RSB--LSB-42-RSB-.
+However, RCTs that assess the effects of SE compared with other forms of exercise on self-reported pain in patients with chronic LBP have presented conflicting findings -LSB-34-RSB-, -LSB-35-RSB-, -LSB-38-RSB-, -LSB-41-RSB-.
+In some of these studies, no differences between SE and other forms of exercise have been found -LSB-34-RSB-, -LSB-41-RSB-.
+In other studies, SE exhibits more advantages than other forms of exercise -LSB-35-RSB-, -LSB-38-RSB-.
+Studies examining back pain specific functional status between SE and other forms of exercise have also yielded inconsistent results -LSB-34-RSB-, -LSB-36-RSB-, -LSB-38-RSB-.
+Some studies have found no differences between patients receiving SE and other forms of exercise -LSB-34-RSB-, -LSB-38-RSB-.
+The remaining trial has demonstrated an increased improvement in patients receiving SE -LSB-36-RSB-.
+In two randomized trials, in which SE is compared with traditional Chinese medical therapies -LSB-37-RSB-, -LSB-42-RSB-, one trial has shown that pain is reduced when SE is used -LSB-37-RSB-; the other trial has demonstrated that SE produced less pain reduction compared with a specific traditional Chinese medical therapy -LSB-42-RSB-.
+To the best of our knowledge, no published systematic review or guideline on the efficacy of SE for subjects with chronic LBP has been conducted.
+Therefore, the effectiveness of SE compared with other treatments remains unclear.
+Clinicians may also be undecided whether or not SE should be prescribed in patients with chronic LBP.
+It is necessary to conduct a systematic evaluation of RCTs focusing on SE for patients with chronic LBP in this case.
+We performed a systematic review to assess the efficacy of SE in participants with chronic LBP.
+The results of this study provided information to help clinicians come up with evidence-based decisions on the use of SE for patients with chronic LBP.
+Methods Literature Search The following databases were searched from the earliest available date to August 2013: Cochrane Library; Cumulative Index to Nursing and Allied Health Literature; Pubmed; the Web of Science; Embase; the Physiotherapy Evidence Database; Chinese Biomedical Literature Database; Wanfang Database; and China National Knowledge Infrastructure.
+We used LBP, SE, and RCTs as search terms -LRB-full details of the search in File S1-RRB-.
+To increase the chance of finding all relevant publications describing the effects of SE on LBP, we did not set limitations on language, year, or status during the initial search.
+To identify gray literature, we contacted experts and inquired regarding materials not listed in these databases.
+The International Controlled Trials Registry Platform was also searched, in which SE and LBP were used as key words, to obtain relevant registered trials, which may contain additional data, but did not have any published papers.
+The reference lists of identified articles were screened manually for additional studies.
+Inclusion Criteria Types of studies Only RCTs investigating the use of SE as treatment for chronic LBP were included.
+No language or publication date restrictions were applied.
+Types of participants The study samples included patients with chronic LBP affected for longer than three months.
+Unless an adequate washout period was described, patients who were exposed to similar treatments prior to the study were not included.
+Types of interventions We included articles in which SE was compared with no or placebo treatment, as well as any other treatment for chronic LBP.
+In the SE training program, the neuromuscular activation was induced to regain normal functional movement patterns in patients with musculoskeletal disorders -LSB-33-RSB-.
+SE was performed using specially designed devices, such as Record Trainer or TerapiMaster -LSB-34-RSB-, -LSB-43-RSB-.
+Trials in which a treatment was applied with concomitant therapy were accepted as long as similar treatments were applied in the control conditions.
+Types of outcome measures The findings were analyzed in three primary outcome categories: -LRB-1-RRB- self-reported pain; -LRB-2-RRB- back pain specific functional status; and -LRB-3-RRB- return to work -LRB-expressed as the number of days of sick leave or the proportion of patients returned to work-RRB-.
+Secondary outcomes of this review include global improvement, health-related quality of life, satisfaction with treatment, and adverse events.
+We categorized outcomes as long term -LRB-12 months-RRB-, intermediate -LRB-closer to 6 months-RRB-, or short term -LRB-post-treatment assessment no longer than 12 weeks-RRB-.
+Selection of Studies Two reviewers -LRB-Yue YS, Zhu Y-RRB- independently screened for potentially relevant titles and abstracts based on the pre-specified criteria; full-text articles were retrieved whenever necessary.
+Any disagreements were resolved by discussion or consultation with a third independent reviewer -LRB-Wang XQ-RRB- if necessary.
+Data Extraction Two independent reviewers -LRB-Yue YS, Zhu Y-RRB- abstracted and cross-checked the data obtained from the included trials.
+These data were then compiled in a pre-designed data extraction form.
+The data extraction form included study design -LRB-treatment allocation, concealed allocation, blinding, intention-to-treat analysis, etc.-RRB-, participant characteristics -LRB-mean age, group distribution, etc.-RRB-, description of control and treatment interventions -LRB-SE style and practices, type of control intervention, frequency, total duration, etc.-RRB-, outcome measures used, and follow-up period.
+Any disagreements were resolved by discussion to obtain a consensus.
+The authors were also contacted to provide further information when deemed necessary.
+Quality Assessment The two independent reviewers -LRB-Yue YS, Zhu Y-RRB- used the Cochrane Collaborations risk of bias tool to evaluate the methodological quality of all included studies.
+The following domains were evaluated: random sequence generation, allocation concealment, blinding of participants and personnel, blinding of outcome assessments, incomplete outcome data, selective reporting, and other bias -LSB-44-RSB-.
+For each domain, each studys description of methods was examined and the judgment regarding potential bias was made, according to three categories: low risk, high risk and unclear risk -LSB-45-RSB-.
+The overall risk of bias of individual study was rated as low -LRB-low risk of bias for all domains-RRB-, high -LRB-high risk of bias for one or more domains-RRB- or unclear -LRB-unclear risk of bias for one or more domains-RRB- -LSB-46-RSB-.
+A third independent reviewer -LRB-Wang XQ-RRB- was consulted to resolve disagreements.
+Statistical Analysis Data were analyzed with the Review Manager statistical software -LRB-RevMan version 5.2-RRB- by using a random-effects model.
+Random effects meta-analysis was performed to combine the results because we predicted that study characteristics and other factors were different, suggesting that the effects may differ across studies.
+Chi-square test was performed to detect statistically significant heterogeneity -LSB-47-RSB-.
+We then estimated the amount of heterogeneity among studies by using the I2 statistic: <25%, low; <50%, moderate heterogeneity; and >50%, substantial heterogeneity -LSB-48-RSB-.
+Heterogeneity was further investigated by checking data extracted from outlier studies and exploring the effects of study exclusion in sensitivity analyses.
+No funnel plots or assessments for publication bias were performed because of the small number of trials -LRB-maximum five trials-RRB- that were pooled in the comparisons included in this literature.
+The control conditions were divided into five groups: other forms of exercise; traditional Chinese medical therapy; thermomagnetic therapy; physical agents in combination with drug therapy; and no treatment.
+We then performed separate meta-analyses for short-term, intermediate, and long-term follow-up time points.
+One study included two different control groups, which were individually considered during analysis -LSB-49-RSB-.
+Analyses were only possible for self-reported pain and back pain specific functional status because of absence of data for return to work, global improvement, health-related quality of life, satisfaction with treatment, and adverse events.
+In the included studies, several outcome measures were used to assess the constructs of self-reported pain, including a 10 mm or 100 mm visual analogue scale -LRB-VAS-RRB- -LSB-43-RSB- or 0-point to 10-point numerical pain rating scale -LRB-NPRS-RRB- -LSB-34-RSB-, and the back pain specific functional status, such as 100-point Oswestry disability index -LRB-ODI-RRB- -LSB-40-RSB- or modified Oswestry disability index -LRB-M-ODI-RRB- -LSB-34-RSB-.
+Moderate to high correlations between the different measures of the two constructs were obtained -LSB-50-RSB-.
+In this literature, the individual trial outcomes for self-reported pain and back pain specific functional status were linearly rescaled to a 0 to 100 scoring system, in which lower scores indicated better outcomes, to facilitate the comparison and interpretability of the syntheses -LSB-49-RSB-, -LSB-51-RSB-, -LSB-52-RSB-.
+For example, we rescaled a NPRS pain score of 2.31.1 points -LRB-mean  SD-RRB- out of 10 points to 2311 points out of 100 points, where positive mean effect sizes indicated an improvement that is decreased pain.
+All of the variables included in the analysis were continuous; as such, the inverse variance method was used to calculate the weighted mean differences -LRB-WMDs-RRB- and the corresponding 95% confidence intervals -LRB-95% CIs-RRB- for each study based on the post-intervention means of each group and the pooled standard deviation.
+Two-sided statistical tests were performed.
+P<0.05 or 95% confidence interval that excluded a null result was considered statistically significant -LSB-53-RSB-.
+On the basis of current research on minimal clinically significant differences, a 20-point -LRB-of 100 points-RRB- improvement in pain -LSB-54-RSB- and a 10-point -LRB-of 100 points-RRB- improvement in functional outcomes -LSB-55-RSB- were considered as clinically meaningful.
+Results Study Selection Our initial search yielded 7,128 records.
+Among these data, 5,197 were retained after duplicates were removed.
+A total of 4,646 articles were excluded because these studies did not use randomized controlled trial designs, the recruited sample populations comprised patients without chronic LBP, or no adequate intervention group was used.
+The 551 remaining articles were assessed in detail for eligibility.
+Among these remaining articles, 542 were excluded.
+A total of 450 articles were non-RCTs or studies of unrelated intervention conditions.
+A total of 86 studies used participants without chronic LBP or reported on results not included in the predefined outcomes.
+Six articles -LSB-56-RSB--LSB-61-RSB- were not available for full text -LSB-56-RSB-, -LSB-59-RSB--LSB-61-RSB- or had incomplete outcome data -LSB-57-RSB-, -LSB-58-RSB-, and the authors of these studies -LSB-56-RSB--LSB-61-RSB- did not respond to our repeated contacts.
+Thus, nine RCTs -LSB-34-RSB--LSB-42-RSB- with a total of 706 participants were included in this study.
+Figure 1 shows the flow chart from initial results of publication searches to final inclusion or exclusion.10.1371/journal.pone.0099307.
+g001Figure 1 Review flow diagram.
+Description of Included Studies We included 9 single center randomized controlled trials -LSB-34-RSB--LSB-42-RSB- aiming to examine the efficacy of SE on chronic LBP.
+Of these, one trial -LSB-34-RSB- was conducted in a primary care setting in Norway, seven trials -LSB-36-RSB--LSB-42-RSB- were done in Chinese hospitals, and one trial -LSB-35-RSB- was from Republic of Korea.
+Trials -LSB-34-RSB--LSB-42-RSB- were published between 2008 and 2012, and all -LSB-34-RSB--LSB-42-RSB- but two -LSB-34-RSB-, -LSB-35-RSB- were published in Chinese language.
+The summarized characteristics of the studies -LSB-34-RSB--LSB-42-RSB- included in our systematic review are presented in Table 1.10.1371/journal.pone.0099307.
+t001Table 1 Characteristics of trials included in systematic review.
+Article,Year Patients Characteristic,Sample Size Intervention Duration oftrial period Outcomes Timepoint Gao Baolong -LRB-2008-RRB- Source: hospital 29patients -LRB-G1=15, G2=14-RRB-;Mean age -LRB-SD-RRB-: G1=37.0y-LRB-4.28-RRB-, G2=35.0y -LRB-3.99-RRB-.
+G1: SE;G2: Massage.
+five times aweek for 8 weeks.
+Self-reported pain-LRB-VAS 010-RRB-; Skeletal musclemetabolism -LRB-Serum CK,Serum LDH-RRB-.
+8 weeks.
+Unsgaard-Tondel -LRB-2010-RRB- Source: primary care andhospital 109 patients-LRB-G1=36, G2=36, G3=37-RRB-;Mean age -LRB-SD-RRB-: G1=43.4y-LRB-10.2-RRB-, G2=40.9y -LRB-11.5-RRB-,G3=36.0y -LRB-10.3-RRB-.
+G1: SE; G2: Motor controlexercise;G3: General exercise.
+once a weekfor 8 weeks.
+Self-reported pain-LRB-NPRS 010-RRB-; Back painspecific functional status-LRB-M-ODI-RRB-; Fear of physicalactivity and work -LRB-FABQ-RRB-;Trunk flexion -LRB-FTF-RRB-; Health careutilization -LRB-Low back pain therapy,Low back pain medication-RRB-.
+8 weeks; 14months.
+Guo Xianfeng -LRB-2010-RRB- Source: hospital 246patients -LRB-G1=82, G2=82,G3=82-RRB-; Mean age -LRB-SD-RRB-:G1=34.1y -LRB-6.5-RRB-, G2=33.3y-LRB-6.5-RRB-, G3=33.5y -LRB-5.0-RRB-.
+G1: Intensive therapy: Backschool+SE+Health ballexercise; G2: Home exercise:Back school+Aerobictraining+Freestandingexercise; G3: Conventional therapy:Back school+Physicalagents+Drug therapy.
+SE: three times a weekfor the first8 weeks; Health ball exercise:fourtimes a week for the last4 weeks; Aerobic training:three times a week for12 weeks; Freestandingexercise: four times aweek for 12 weeks; Physicalagents: five times a week for thefirst 4 weeks; Drug therapy:Meloxicam - once a day for thefirst 4 weeks, Eperisonehydrochloride tablet - three timesa day for the first 4 weeks.
+Self-reported pain-LRB-NPRS 010-RRB-; Back painspecific functionalstatus -LRB-M-ODI-RRB-.
+4 weeks; 12weeks; 24weeks.
+Qin Jiang -LRB-2010-RRB- Source: hospital 34patients-LRB-G1=12, G2=12, G3=10-RRB-;Mean age -LRB-SD-RRB-: 49.94y-LRB-11.90-RRB-.
+G1: SE; G2: SE+Magnetic fieldwarmer vibration synthetictherapy; G3: Immobilized withwaistline+Williamsgymnastics training.
+SE: once every two days for 6weeks; Magnetic field warmervibration synthetic therapy: onceevery two days for 6 weeks;Williams gymnastics training:three times a day for 6 weeks.
+Self-reported pain -LRB-NPRS010-RRB-; Back pain specificfunctional status -LRB-ODI-RRB-.
+6 weeks; 18weeks.
+Jin Miao -LRB-2011-RRB- Source: hospital 60patients -LRB-G1=20, G2=20,G3=20-RRB-; Mean age -LRB-SD-RRB-:G1=45.97y-LRB-2.68-RRB-, G2=44.74y -LRB-2.54-RRB-,G3=44.79y -LRB-2.80-RRB-.
+G1: Intermediate frequency electrotherapy+SE; G2: Intermediate frequency electrotherapy+Thermomagnetic therapy; G3: Drug therapy.
+Intermediate frequencyelectrotherapy: once a day for aweek; SE: once a dayfor a week; Thermomagnetictherapy: once a day for a week;Drug therapy: Gentongpingcapsule - two times a day for aweek, Mecobalamin- three times a day for a week.
+Clinical effect -LRB-Criteria ofdiagnostic efficacy onsyndrome of traditionalChinese medicine-RRB-; Self-reported pain -LRB-VAS 010-RRB-;Anxiety state -LRB-HAMD-RRB-;Ability of daily life-LRB-ADLRS-RRB-; Back painspecific functional status-LRB-ODI-RRB-; Joint function-LRB-ROM-RRB-.
+1 week; 5weeks.
+Hu Yuan -LRB-2011-RRB- Source: hospital 100patients -LRB-G1=50, G2=50-RRB-;Mean age -LRB-SD-RRB-:G1=40.39y -LRB-10.68-RRB-,G2=39.13y-LRB-9.38-RRB--LSB-based oncompleted cases-RSB-.
+G1: Back school+SE;G2: Backschool+Thermomagnetictherapy.
+three times aweek for 6 weeks.
+Self-reported pain -LRB-VAS010-RRB-; Back pain specificfunctional status -LRB-ODI-RRB-.
+6 weeks; 13.5months.
+Yoo -LRB-2012-RRB- Source: university 30patients -LRB-G1=15, G2=15-RRB-;Mean age -LRB-SD-RRB-: G1=20.1y-LRB-0.7-RRB-, G2=20.5y -LRB-0.5-RRB-.
+G1: SE;G2: Mat exercise.
+three times aweek for 4 weeks.
+Self-reported pain-LRB-VAS 010-RRB-; Trunkextensor strength-LRB-The Tergumed Device-RRB-.
+4 weeks.
+Wang Cong -LRB-2012-RRB- Source: hospital 38patients -LRB-G1=19, G2=19-RRB-;Mean age-LRB-SD-RRB-: G1=36.95y -LRB-11.78-RRB-,G2=36.05y -LRB-10.80-RRB-.
+G1: Back school+SE;G2: Back school+Freestandingexercise+Health ball training.
+three times aweek for 8 weeks.
+Self-reported pain -LRB-VAS010-RRB-; Back pain specificfunctional status -LRB-ODI-LSB-exclude sexual life item-RSB--RRB-.
+8 weeks; 12weeks; 20weeks.
+Liu Pan -LRB-2012-RRB- Source: community andhospital 60 patients-LRB-G1=20, G2=20, G3=20-RRB-;Mean age -LRB-SD-RRB-:G1=46.73y-LRB-11.58-RRB-, G2=44.60y-LRB-10.57-RRB-, G3=43.28y-LRB-10.34-RRB-.
+G1: SE; G2: Acupuncturetherapy; G3: Acupuncturetherapy+SE.
+seven times aweek for 4 weeks.
+Self-reported pain -LRB-VAS 010-RRB-; Disability -LRB-JOA-RRB-.
+the first day; 2 weeks; 4 weeks.
+Abbreviations G: Group; SD: Standard deviation; SE: Sling exercise; VAS: Visual analog scale; CK: Creatine kinase; LDH: Lactate dehydrogenase; NPRS: Numeric pain rating scale; M-ODI: Modified oswestry disability index; FABQ: Fear-avoidance beliefs questionnaire; FTF: the Fingertip-to-Floor test -LRB-in centimeters-RRB-; ODI: Oswestry disability index; HAMD: Hamilton rating scale for depression; ADLRS: Activity of daily living rating scale; ROM: Range of motion; JOA: Japanese Orthopedic Association scores for assessment of low back pain.
+Participants Data from a total of 706 participants -LRB-ranging from 29 to 246, only 3 studies -LSB-34-RSB-, -LSB-38-RSB-, -LSB-40-RSB- enrolled 100 individuals-RRB- were extracted of whom 98 received SE alone and 203 received SE combined with other therapies -LRB-151 combined with back school, 12 combined with magnetic field warmer vibration synthetic therapy, 20 combined with intermediate frequency electrotherapy, 10 combined with acupuncture therapy-RRB-.
+46% of the participants included in 8 trials -LSB-34-RSB-, -LSB-36-RSB--LSB-42-RSB- were men, and sex was not reported for one trial -LSB-35-RSB-.
+The mean age of study patients ranged from 20.30 to 49.94 years.
+Six studies -LSB-36-RSB--LSB-41-RSB- were done with hospital patients, one -LSB-34-RSB- with primary care and hospital patients, one -LSB-42-RSB- with community and hospital patients, and one -LSB-35-RSB- with university students.
+Subjects were included according to various inclusion criteria -LRB-non-specific LBP, specific LBP or both-RRB-.
+SE The intervention was primarily SE based, and five -LSB-38-RSB--LSB-42-RSB- of the 9 trials -LSB-34-RSB--LSB-42-RSB- involved the application of concomitant therapy -LRB-eg.
+back school, 3 -LSB-38-RSB-, -LSB-40-RSB-, -LSB-41-RSB-/5 -LSB-38-RSB--LSB-42-RSB-; intermediate frequency electrotherapy, 1 -LSB-39-RSB-/5 -LSB-38-RSB--LSB-42-RSB-; acupuncture therapy, 1 -LSB-42-RSB-/5 -LSB-38-RSB--LSB-42-RSB--RRB- alongside the intervention and control.
+Intervention duration ranged from 1 week to 8 weeks with an average length of 5.89 weeks, and intervention frequency was various, ranging from once a week to seven times a week.
+Eight trials -LSB-34-RSB-, -LSB-36-RSB--LSB-42-RSB- were done in hospital, and in one -LSB-35-RSB-, the setting was unclear.
+In 1 study -LSB-39-RSB-, participants spent 20 minutes per session doing SE.
+In 2 studies -LSB-38-RSB-, -LSB-41-RSB-, participants spent 30 minutes per session doing SE.
+In 2 studies -LSB-34-RSB-, -LSB-36-RSB-, participants spent 40 minutes per session doing SE.
+In 1 study -LSB-42-RSB-, participants spent 30 to 60 minutes per session doing SE.
+And the time spent on the SE per session was unclear in 3 studies -LSB-35-RSB-, -LSB-37-RSB-, -LSB-40-RSB-.
+Control conditions Regarding control conditions, one study -LSB-37-RSB- used a traditional Chinese medical therapy, four studies -LSB-34-RSB--LSB-36-RSB-, -LSB-41-RSB- used other forms of exercise, two studies -LSB-39-RSB-, -LSB-40-RSB- used thermomagnetic therapies, and two trials -LSB-38-RSB-, -LSB-42-RSB- used two separate control interventions, of which one trial -LSB-38-RSB- used another form of exercise and physical factor therapy combined with drug therapy -LRB-meloxicam combined with eperisone hydrochloride tablet-RRB- and the remaining one trial -LSB-42-RSB- used no treatment and a traditional Chinese medical therapy.
+Outcomes Outcome measures were self-reported pain -LRB-9 trials -LSB-34-RSB--LSB-42-RSB--RRB-, back pain specific functional status -LRB-6 trials -LSB-34-RSB-, -LSB-36-RSB-, -LSB-38-RSB--LSB-41-RSB--RRB-, disability -LRB-1 trial -LSB-42-RSB--RRB-, skeletal muscle metabolism -LRB-1 trial -LSB-37-RSB--RRB-, fear of physical activity and work -LRB-1 trial -LSB-34-RSB--RRB-, trunk flexion -LRB-1 trial -LSB-34-RSB--RRB-, health care utilization -LRB-1 trial -LSB-34-RSB--RRB-, clinical effect -LRB-1 trial -LSB-39-RSB--RRB-, anxiety state -LRB-1 trial -LSB-39-RSB--RRB-, ability of daily life -LRB-1 trial -LSB-39-RSB--RRB-, joint function -LRB-1 trial -LSB-39-RSB--RRB-, and trunk extensor strength -LRB-1 trial -LSB-35-RSB--RRB-.
+Of these, the methods used to assess self-reported pain and back pain specific function status among all trials -LSB-34-RSB--LSB-42-RSB- were different.
+The pain was measured by VAS -LRB-6 -LSB-35-RSB-, -LSB-37-RSB-, -LSB-39-RSB--LSB-42-RSB-/9 -LSB-34-RSB--LSB-42-RSB- trials-RRB- or NPRS -LRB-3 -LSB-34-RSB-, -LSB-36-RSB-, -LSB-38-RSB-/9 -LSB-34-RSB--LSB-42-RSB- trials-RRB-, and back pain specific function status was measured by ODI -LRB-4 -LSB-36-RSB-, -LSB-39-RSB--LSB-41-RSB-/6 -LSB-34-RSB-, -LSB-36-RSB-, -LSB-38-RSB--LSB-41-RSB- trials-RRB- or M-ODI -LRB-2 -LSB-34-RSB-, -LSB-38-RSB-/6 -LSB-34-RSB-, -LSB-36-RSB-, -LSB-38-RSB--LSB-41-RSB- trials-RRB-.
+However, none of the included trials -LSB-34-RSB--LSB-42-RSB- reported data for return to work, global improvement, health-related quality of life, satisfaction with treatment or adverse events.
+Data from 9 included studies -LSB-34-RSB--LSB-42-RSB- were collected at short-term period -LRB-9 -LSB-34-RSB--LSB-42-RSB-/9 -LSB-34-RSB--LSB-42-RSB- trials-RRB-, intermediate period -LRB-2 -LSB-36-RSB-, -LSB-41-RSB-/9 -LSB-34-RSB--LSB-42-RSB- trials-RRB- or long-term period -LRB-2 -LSB-34-RSB-, -LSB-40-RSB-/9 -LSB-34-RSB--LSB-42-RSB- trials-RRB-.
+All included trials -LSB-34-RSB--LSB-42-RSB- reported mean rather than median data for continuous outcomes and reported number of events and total for dichotomous outcomes.
+Conflict of interest One study -LSB-34-RSB- was financed by the Norwegian Fund for Post-Graduate Training in Physiotherapy, and sponsorship of other studies -LSB-35-RSB--LSB-42-RSB- was not mentioned.
+Methodological Quality of Included Trials Only 4 trials -LSB-34-RSB-, -LSB-38-RSB--LSB-40-RSB- adequately reported allocation sequence generation.
+The remaining 5 trials -LSB-35-RSB--LSB-37-RSB-, -LSB-41-RSB-, -LSB-42-RSB- were randomized, but no details were provided.
+One trial -LSB-34-RSB- had adequate allocation concealment, but we could not determine the allocation concealment in the remaining 8 trials -LSB-35-RSB--LSB-42-RSB-.
+None of the 9 included trials -LSB-34-RSB--LSB-42-RSB- met the blinding of participants, personnel and outcome assessors criterion.
+Given the direct participant-personnel involvement due to the nature of therapeutic trials, and self-reported outcome measures such as VAS and NPRS, it was not feasible to blind participants, personnel and outcome assessors.
+While the blinding in 9 included trials -LSB-34-RSB--LSB-42-RSB- was not feasible, it was still an inherent source of bias that must be highlighted for every trial.
+The risk of incomplete outcome data was low for only 6 included trials -LSB-34-RSB--LSB-37-RSB-, -LSB-39-RSB-, -LSB-42-RSB-.
+Selective outcome reporting was at a low risk of bias in all 9 included trials -LSB-34-RSB--LSB-42-RSB-.
+Sources of other bias were unclear in 9 included trials -LSB-34-RSB--LSB-42-RSB-.
+Overall, nine included trials -LSB-34-RSB--LSB-42-RSB- were adjudicated to be of high risk of bias.
+Table 2 shows the detailed results of the quality assessment of individual characteristics.10.1371/journal.pone.0099307.
+t002Table 2 Methodological quality of trials included in systematic review.
+Article,Year Randomsequencegeneration Allocationconcealment Blinding ofParticipantsand personnel Blinding ofoutcomeassessments Incompleteoutcome data Selectivereporting Otherbias Riskof bias Gao Baolong -LRB-2008-RRB- Unclear Unclear High High Low Low Unclear High Unsgaard-Tondel -LRB-2010-RRB- Low Low High High Low Low Unclear High Guo Xianfeng -LRB-2010-RRB- Low Unclear High High Unclear Low Unclear High Qin Jiang -LRB-2010-RRB- Unclear Unclear High High Low Low Unclear High Jin Miao -LRB-2011-RRB- Low Unclear High High Low Low Unclear High Hu Yuan -LRB-2011-RRB- Low Unclear High High High Low Unclear High Yoo -LRB-2012-RRB- Unclear Unclear High High Low Low Unclear High Wang Cong -LRB-2012-RRB- Unclear Unclear High High Unclear Low Unclear High Liu Pan -LRB-2012-RRB- Unclear Unclear High High Low Low Unclear High Effectiveness SE compared with other forms of exercise Five trials -LRB-457 patients-RRB- -LSB-34-RSB--LSB-36-RSB-, -LSB-38-RSB-, -LSB-41-RSB- randomly assigned patients to undergo SE -LRB-164 patients-RRB- or other forms of exercise -LRB-199 patients-RRB-, and reported data regarding self-reported pain.
+Among these trials -LSB-34-RSB--LSB-36-RSB-, -LSB-38-RSB-, -LSB-41-RSB-, three -LSB-34-RSB-, -LSB-36-RSB-, -LSB-38-RSB- evaluated self-reported pain by using NPRS and two trials -LSB-35-RSB-, -LSB-41-RSB- used VAS.
+In four studies -LRB-427 patients-RRB- -LSB-34-RSB-, -LSB-36-RSB-, -LSB-38-RSB-, -LSB-41-RSB-, data regarding back pain specific functional status were reported, in which SE for 149 patients and other forms of exercise for 184 patients were assessed.
+Among these four studies, two -LSB-36-RSB-, -LSB-41-RSB- used ODI to measure back pain specific functional status, whereas two -LSB-34-RSB-, -LSB-38-RSB- utilized M-ODI.
+Figures 2 and 3 show the overall meta-analysis results of the comparison of SE with other forms of exercise.10.1371/journal.pone.0099307.
+g002Figure 2 Self-reported pain for sling exercise versus other forms of exercise.
+Unsgaard-Tondel 2010-LRB-1-RRB-, sling exercise versus motor control exercise; Unsgaard-Tondel 2010-LRB-2-RRB-, sling exercise versus general exercise.10.1371/journal.pone.0099307.
+g003Figure 3 Back pain specific functional status for sling exercise versus other forms of exercise.
+Unsgaard-Tondel 2010-LRB-1-RRB-, sling exercise versus motor control exercise; Unsgaard-Tondel 2010-LRB-2-RRB-, sling exercise versus general exercise.
+The trials -LSB-34-RSB--LSB-36-RSB-, -LSB-38-RSB-, -LSB-41-RSB- comparing SE with other forms of exercise failed to reveal significant differences in self-reported pain at short-term -LSB-7.30 point -LRB-CI=14.86 to 0.25-RRB--RSB-, intermediate -LSB-3.81 point -LRB-CI=16.98 to 9.36-RRB--RSB-, and long-term -LSB-3.70 point -LRB-CI=3.16 to 10.55-RRB--RSB- follow-up periods.
+However, significant heterogeneities for short-term and intermediate self-reported pain were derived when SE was compared with other forms of exercise.
+The heterogeneity for short-term self-reported pain was substantially high -LRB-I2=88%-RRB-.
+A visual inspection of the forest plot indicated that two studies -LSB-36-RSB-, -LSB-38-RSB-, in which the control treatment was mainly conducted by patients at home, were the most likely source of heterogeneity.
+A meta-analysis excluding these two studies -LSB-36-RSB-, -LSB-38-RSB- indicated a substantially reduced heterogeneity -LRB-I2=39%-RRB- and revealed a statistically non-significant effect size -LSB-3.01 point -LRB-CI=7.22 to 1.21-RRB--RSB-.
+For intermediate self-reported pain, high I2 value -LRB-I2=62%-RRB- derived in the random effects analysis also suggested a substantial heterogeneity between the included studies -LSB-36-RSB-, -LSB-41-RSB-.
+This result may be due to the fact that the included trials -LSB-36-RSB-, -LSB-41-RSB- differed in patient populations and treatment durations.
+The baseline scores of pain obtained by Qin et al. -LSB-36-RSB- were >1.5 points higher than those in Wang et al. -LSB-41-RSB-; by comparison, the treatment duration presented by Qin et al. -LSB-36-RSB- was two weeks shorter than that reported by Wang et al. -LSB-41-RSB-.
+However, neither of the studies -LSB-36-RSB-, -LSB-41-RSB- yielded statistically significant effects of SE on the decrease in intermediate self-reported pain compared with other forms of exercise.
+This result is consistent with that of the pooled analysis.
+No significant differences were observed in short-term back pain specific functional status between SE and other forms of exercise -LSB-6.57 point -LRB-CI=14.09 to 0.96-RRB--RSB-.
+We also observed a statistically, but probably not clinically meaningful difference in the intermediate back pain specific functional status -LSB-8.81 point -LRB-CI=13.82 to 3.80-RRB--RSB- in favor of SE compared with other forms of exercise.
+The statistical heterogeneity for short-term back pain specific functional status was substantially high -LRB-I2=91%-RRB-.
+This result may be attributed to the inclusion of one trial -LSB-34-RSB-, in which SE was performed less frequently than in remaining trials -LSB-36-RSB-, -LSB-38-RSB-, -LSB-41-RSB-.
+Eliminating this study -LSB-34-RSB- from the analysis, we no longer observed heterogeneity -LRB-I2 =0%-RRB-.
+Nevertheless, the result was statistically significant, which differed from the conclusion of no statistically significant differences in short-term back pain specific functional status.
+A subgroup analysis based on the frequency of SE was then performed, and the result showed that smaller effect sizes were achieved in trials, in which SE was performed less frequently.
+SE compared with traditional chinese medical therapies Among the included trials -LSB-34-RSB--LSB-42-RSB-, two -LRB-89 patients-RRB- -LSB-37-RSB-, -LSB-42-RSB- demonstrated SE and traditional Chinese medical therapies with randomly assigning patients -LRB-35 and 34 patients, respectively-RRB-; the results regarding self-reported pain were determined using VAS.
+The results of our meta-analysis are shown in Figure 4.10.1371/journal.pone.0099307.
+g004Figure 4 Self-reported pain for sling exercise versus traditional Chinese medical therapies.
+The meta-analysis of two trials -LSB-37-RSB-, -LSB-42-RSB- showed that SE and traditional Chinese medical therapies were different in terms of the short-term self-reported pain -LSB-5.29 point -LRB-CI=20.27 to 9.70-RRB--RSB-, but this result was not significant.
+The pooled studies -LSB-37-RSB-, -LSB-42-RSB- demonstrated substantially high levels of heterogeneity -LRB-I2=56%-RRB-, probably because of the differences between the two included trials -LSB-37-RSB-, -LSB-42-RSB- in terms of participant populations and treatment durations.
+The baseline scores of pain observed by Liu et al. -LSB-42-RSB- were higher than those of Gao et al. -LSB-37-RSB- by more than two points.
+By comparison, the treatment duration obtained by Liu et al. -LSB-42-RSB- was four weeks shorter than that observed by Gao et al. -LSB-37-RSB-.
+Neither of the studies -LSB-37-RSB-, -LSB-42-RSB- indicated the positive effects of SE on the decrease in short-term self-reported pain compared with traditional Chinese medical therapies.
+This result is similar to that obtained in pooled analysis.
+SE compared with thermomagnetic therapy Two studies -LRB-160 patients-RRB- -LSB-39-RSB-, -LSB-40-RSB- assessed SE performed by 70 patients and thermomagnetic therapy conducted by 70 patients; data on self-reported pain and back pain specific functional status were presented.
+For the two studies -LSB-39-RSB-, -LSB-40-RSB-, self-reported pain was determined using VAS -LSB-39-RSB-, -LSB-40-RSB-, and both studies -LSB-39-RSB-, -LSB-40-RSB- assessed back pain specific functional status by using ODI.
+The weighted mean difference -LRB-95% CI-RRB- results of the included trials -LSB-39-RSB-, -LSB-40-RSB- are shown in Figures 5 and 6.10.1371/journal.pone.0099307.
+g005Figure 5 Self-reported pain for sling exercise versus thermomagnetic therapies.10.1371/journal.pone.0099307.
+g006Figure 6 Back pain specific functional status for sling exercise versus thermomagnetic therapies.
+We observed significant differences between SE and thermomagnetic therapy for self-reported pain at either short-term -LSB-13.90 point -LRB-CI=22.19 to 5.62-RRB--RSB- or long-term -LSB-26.20 point -LRB-CI=31.32 to 21.08-RRB--RSB- follow-up periods.
+The heterogeneity of short-term self-reported pain was substantially high -LRB-I2=62%-RRB-.
+This result may be due to differences in the frequency of SE between the two included trials -LSB-39-RSB-, -LSB-40-RSB-.
+SE was performed less frequently as revealed by Jin et al. -LSB-39-RSB- than by Hu et al. -LSB-40-RSB-.
+The two studies -LSB-39-RSB-, -LSB-40-RSB- comparing SE with thermomagnetic therapy both reported the positive effects of SE on the reduction of short-term self-reported pain.
+This result is consistent with that of the pooled analysis.
+We recorded both statistically and clinically significant differences between SE and thermomagnetic therapy for back pain specific functional status at either short-term -LSB-10.54 point -LRB-CI=14.32 to 6.75-RRB--RSB- or long-term -LSB-25.75 point -LRB-CI=30.79 to 20.71-RRB--RSB- follow-up periods.
+SE compared with the combination of physical agents and drug therapy Self-reported pain and back pain specific functional status were evaluated in a randomized controlled trial -LSB-38-RSB-, in which 82 patients receiving SE and another 82 patients receiving physical agents combined with drug therapy were included.
+In this trial -LSB-38-RSB-, self-reported pain was determined using NPRS, and back pain specific functional status was determined using M-ODI.
+This trial -LSB-38-RSB- showed significant differences between SE and physical agents combined with drug therapy for either self-reported pain -LSB-15.00 point -LRB-CI=19.64 to 10.36-RRB--RSB- or back pain specific functional status -LSB-10.00 point -LRB-CI=13.70 to 6.30-RRB--RSB- at short-term follow-up period.
+SE combined with acupuncture therapy versus acupuncture therapy alone One randomized controlled trial -LSB-42-RSB- with 20 participants receiving acupuncture therapy and another 20 participants receiving acupuncture therapy combined with SE reported data for self-reported pain, which was measured by VAS.
+This trial -LSB-42-RSB- indicated no difference between SE in addition to acupuncture therapy and the acupuncture therapy alone for self-reported pain at short-term follow-up period -LSB-6.30 point -LRB-CI=16.85 to 4.25-RRB--RSB-.
+Discussion Systematic reviews -LSB-62-RSB-, -LSB-63-RSB- have been conducted to evaluate the effects of exercise therapy in participants with chronic LBP.
+To the best of our knowledge, this study is the first systematic review and meta-analysis that evaluated the effects of SE on chronic LBP management.
+We derived the following points to provide useful information for caregivers as a guide for patient management, to assist guideline developers in creating guidelines for the use of SE in the chronic LBP treatment, and to allow policy makers in tailoring intervention options towards the desired outcome, available resources, and local healthcare context.
+The meta-analysis showed no statistically significant or clinically relevant differences in self-reported pain at short-term, intermediate, and long-term follow-up periods between SE and other forms of exercise.
+SE is no more efficacious than other forms of exercise in improving back pain specific functional status at short-term follow-up period among patients with chronic LBP.
+However, there is a small, clinically irrelevant benefit of SE over other forms of exercise on intermediate back pain specific functional status, based on an evaluation of less than 60 patients in 2 trials, which both did not perform allocation concealment or blinded outcome assessment, and intention-to-treat analysis was only performed in one of which.
+SE is as effective as traditional Chinese medical therapies in decreasing short-term self-reported pain, which is consistent with the findings of some published systematic reviews -LSB-62-RSB-, -LSB-63-RSB- which suggest that exercise therapy and massage are equally effective for chronic LBP.
+The results indicated that SE was more effective than thermomagnetic therapy for self-reported pain and back pain specific functional status in short- or long-term follow-up periods, but the substantial heterogeneity for short-term self-reported pain comparing SE with thermomagnetic therapy was recorded.
+In one trial, significant differences between SE and physical agents combined with drug therapy were derived for self-reported pain and back pain specific functional status in the short-tern, which was consistent with the findings of some published trials -LSB-64-RSB-, -LSB-65-RSB-, -LSB-66-RSB-, -LSB-67-RSB- where exercise therapy is more effective than physical agents or drug therapy in pain relief and functional improvement, and systematic reviews -LSB-62-RSB-, -LSB-63-RSB- where exercise therapy is more effective than usual care by a general practitioner for chronic LBP.
+Concerning short-term self-reported pain, no significant differences between SE combined with acupuncture therapy and acupuncture therapy alone were found in one trial.
+Strengths Our study presented several strengths.
+We collected data by using a broad search strategy with the following procedures: searching multiple citation databases; soliciting experts for published or unpublished studies; searching trial registries; and screening the references of identified trials.
+Also, no language restriction was applied.
+This strategy suggested that our synthesis represented the current state of related studies.
+We also performed our review according to previously published protocol and methodological guidelines.
+The consistency of self-reported pain and back pain specific functional status, which were primary outcomes of our review, was satisfactory.
+All of the studies -LSB-34-RSB--LSB-42-RSB- in this literature included a measure of self-reported pain and two-thirds -LSB-34-RSB-, -LSB-36-RSB-, -LSB-38-RSB--LSB-41-RSB- of the studies -LSB-34-RSB--LSB-42-RSB- included a measure of back pain specific functional status.
+Limitations First, our systematic review is limited because all of the studies -LSB-34-RSB--LSB-42-RSB- included in our literature contain methodological drawbacks, which may lead to an overestimated effect.
+Risk of bias was rated as high in all included trials -LSB-34-RSB--LSB-42-RSB-.
+The most frequent methodological shortcoming in included trials -LSB-34-RSB--LSB-42-RSB- was lack of blinding of patients, caregivers and assessors, due to the nature of the therapeutic interventions indicating that the blinding of patients and caregivers was almost impossible and patient-reported outcomes such as self-reported pain.
+Second, the implementation of outcome measures is notably limited.
+Although the data for self-reported pain and back pain specific functional status were available for the majority of studies -LSB-34-RSB--LSB-42-RSB-, the evaluations of self-reported pain and back pain specific functional status were not standardized, indicating that different trials would use different pain surveys or back pain functional status measures as outcome measures, which could lead to the heterogeneity derived among the trials -LSB-34-RSB--LSB-42-RSB-.
+Few researchers reported return to work, global improvement, health-related quality of life, satisfaction with treatment or adverse events; hence, no interpretations on the differences in these outcomes based on the treatment type used were presented.
+Data for any outcome at intermediate or long-term follow-up period were sparse, suggesting that the efficacy of SE at intermediate and long-term follow-up periods is not well known.
+Only two of the included studies -LSB-36-RSB-, -LSB-41-RSB- assessed the intermediate efficacy, and long-term data were only available for one study -LSB-34-RSB- included in our review.
+Third, all included studies -LSB-35-RSB--LSB-42-RSB-, except one study -LSB-34-RSB- which was sponsored by the Norwegian Fund for Post-Graduate Training in Physiotherapy, did not report sponsoring agent.
+This serves to limit the study as it could lead to an overestimation of the efficacy of SE in participants with chronic LBP.
+For example, the inclusion of only trials -LSB-35-RSB-, -LSB-36-RSB-, -LSB-38-RSB-, -LSB-41-RSB-, the sponsorship of which was not mentioned, substantially changed the conclusion of no difference in self-reported pain and back pain specific functional status at short-term follow-up between SE and other forms of exercise.
+Fourth, we were unable to retrieve four full-text studies -LSB-56-RSB-, -LSB-59-RSB--LSB-61-RSB- that may be suitable for the analysis; these studies were then considered to limit the review because whether or not the results of these trials -LSB-56-RSB-, -LSB-59-RSB--LSB-61-RSB- alter the conclusions derived in this review remains unknown.
+Fifth, the sample sizes of trials -LSB-34-RSB--LSB-42-RSB- included in our systematic review were relatively small, such that only one third -LSB-34-RSB-, -LSB-38-RSB-, -LSB-40-RSB- of the studies -LSB-34-RSB--LSB-42-RSB- in our review enrolled 100 or more patients.
+Several trials -LSB-35-RSB--LSB-37-RSB-, -LSB-39-RSB-, -LSB-41-RSB-, -LSB-42-RSB- with small sample sizes -LRB-<100 participants-RRB- are likely to be underpowered to detect relatively small disparities between the effects of SE and that of the control conditions; these studies may overestimate the efficacy of SE in participants with chronic LBP.
+However, the inclusion of only small trials -LRB-<100 participants-RRB- -LSB-34-RSB--LSB-36-RSB-, -LSB-41-RSB- influenced neither the direction nor the significance of the result of our study that no statistically or clinically significant differences in self-reported pain and back pain specific functional status at short-term follow-up between SE and other forms of exercise were derived.
+Lastly, the limited number of RCTs -LSB-34-RSB--LSB-42-RSB- published in this study area might raise the possibility of publication bias.
+Nine trials -LSB-34-RSB--LSB-42-RSB- conducted is significantly low in therapeutic research, such that the outcome comparisons included only a few trials -LSB-34-RSB--LSB-42-RSB-, and the results of certain comparisons can easily be dominated by a single trial -LSB-38-RSB-, -LSB-40-RSB-, -LSB-42-RSB-.
+No unpublished studies were obtained despite the substantial search.
+Implications for Research Well-designed and sufficiently powered studies with larger sample sizes should be conducted to clarify whether or not SE improves chronic LBP because of limitations in included trials -LSB-34-RSB--LSB-42-RSB-.
+And we identified several implications for further research.
+First, future trials should adequately use random sequence generation and random concealment, and completely report outcome data.
+Second, future studies should be conducted in populations that best represent patients with chronic LBP; hence, patient selection should be carefully considered.
+Third, SE should be well designed, and interventions should be thoroughly described.
+The treatment affected short-term back pain specific functional status between SE and other forms of exercise at a less extent in trials in which SE was performed less frequently -LSB-34-RSB-.
+Hence, studies should evaluate the frequency at which SE is more effective than others for the treatment of chronic LBP.
+Fourth, the outcome measures for future studies should include pain intensity, functional status, and general health.
+This recommendation is based on the standard use of outcome measures in back pain research in 1998, including a minimum of pain intensity, functional status, and general health measures -LSB-68-RSB-.
+We believe that the intermediate or long-term efficacy associated with SE should be accurately assessed, particularly with standardized methods to report outcomes based on published recommendations.
+Fifth, further studies should also be conducted regarding the relative cost effectiveness of SE and the potential active mechanisms of SE for chronic LBP.
+Sixth, researchers should register RCTs and adhere to the CONSORT guidelines to improve the quality of studies.
+Journals on the field of back pain should adopt reporting guidelines and apply these guidelines in their review process to improve the quality of future reports in this field -LSB-51-RSB-, -LSB-69-RSB-.
+Conclusions SE is no more efficacious in reducing self-reported pain or improving back pain specific functional status compared with other forms of exercise or traditional Chinese medical therapies with the exception of a statistically significant, but clinically probably irrelevant improvement in intermediate back pain specific functional status between SE and other forms of exercise.
+In comparison to thermomagnetic therapy or the combination of physical agents and drug therapy, SE more effectively decreased self-reported pain or improved back pain specific functional status.
+SE in addition to acupuncture therapy is as effective as acupuncture therapy alone for reduction of self-reported pain and improvement of back pain specific functional status.
+However, the interpretation of our findings is required to be made with caution due to limitations in included trials such as methodological drawbacks and small sample sizes.
+Supporting InformationFile S1 Search strategies for all databases.
+-LRB-DOCX-RRB- Click here for additional data file.Checklist S1 PRISMA 2009 Checklist.
+-LRB-DOC-RRB- Click here for additional data file.

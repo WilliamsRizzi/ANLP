@@ -1,0 +1,19 @@
+Adolescent
+Adult
+Bone Density*
+Bone and Bones/pathology*
+Child
+Ecosystem
+Exercise
+Female
+Glomerular Filtration Rate
+Humans
+Male
+Muscle, Skeletal/pathology*
+Muscle, Skeletal/physiopathology
+Parathyroid Hormone/blood
+Renal Insufficiency, Chronic/blood
+Renal Insufficiency, Chronic/diagnostic imaging
+Renal Insufficiency, Chronic/pathology*
+Tomography, X-Ray Computed
+Time

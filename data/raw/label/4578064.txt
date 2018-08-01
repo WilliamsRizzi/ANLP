@@ -1,0 +1,16 @@
+Adult
+Constriction, Pathologic/diagnostic imaging
+Constriction, Pathologic/etiology
+Coronary Disease/diagnostic imaging
+Coronary Disease/etiology*
+Dilatation, Pathologic/etiology
+Eisenmenger Complex/diagnosis
+Ecosystem
+Exercise
+Female
+Heart Septal Defects, Atrial/complications*
+Humans
+Hypertension, Pulmonary/complications*
+Pulmonary Artery*/diagnostic imaging
+Radiography
+Time
