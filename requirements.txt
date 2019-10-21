@@ -11,7 +11,7 @@ futures==3.2.0
 gensim==3.4.0
 idna==2.7
 jmespath==0.9.3
-nltk==3.3
+nltk==3.4.5
 numpy==1.14.5
 pathlib==1.0.1
 protobuf==3.6.0
