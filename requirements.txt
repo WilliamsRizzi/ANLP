@@ -29,4 +29,4 @@ smart-open==1.6.0
 stanford-corenlp==3.8.0
 tabulate==0.8.2
 tqdm==4.23.4
-urllib3==1.23
+urllib3==1.26.5
